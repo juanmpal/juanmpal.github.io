@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<h1><span style="color:SteelBlue">Juan Martín Pal</span></h1>
+<h1><span style="color:SteelBlue">Welcome!</span></h1>
 
 <p style="margin-bottom:0.75cm;">
 </p>
