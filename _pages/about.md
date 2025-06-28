@@ -15,11 +15,11 @@ redirect_from:
 
 I am a PhD candidate at the Toulouse School of Economics. 
 
-My interest lie in the fields of labor economics and industrial organization
-
-I combine <span style="color:SteelBlue">**model-based**</span> and <span style="color:SteelBlue">**design-based**</span> methods to conduct research in <span style="color:SteelBlue">**labor**</span> and <span style="color:SteelBlue">**education**</span> economics.
-
 I will be on the 2025/2026 academic Job Market.
+
+<span style="color:SteelBlue">**Research Fields**:</span> Labor Economics, Industrial Organization, Economics of Education.
+
+<!-- I combine <span style="color:SteelBlue">**model-based**</span> and <span style="color:SteelBlue">**design-based**</span> methods to conduct research in <span style="color:SteelBlue">**labor**</span> and <span style="color:SteelBlue">**education**</span> economics. -->
 
 Here is a link to my [<span style="color:SteelBlue">**CV**</span>](https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0)
 
