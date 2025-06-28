@@ -15,7 +15,7 @@ redirect_from:
 
 I am a PhD candidate at the Toulouse School of Economics. 
 
-I combine model-based and design-based methods to conduct research in <span style="color:SteelBlue">**labor**</span> and <span style="color:SteelBlue">**education**</span> economics.
+I combine <span style="color:SteelBlue">**model-based**</span> and <span style="color:SteelBlue">**design-based**</span> methods to conduct research in <span style="color:SteelBlue">**labor**</span> and <span style="color:SteelBlue">**education**</span> economics.
 
 I will be on the 2025/2026 academic Job Market.
 

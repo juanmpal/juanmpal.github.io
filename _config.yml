@@ -29,7 +29,8 @@ author:
   location         : 
   employer         : "Toulouse School of Economics"
   uri              : # URL
-  email            : "juan.pal@tse-fr.eu" 
+  email            : "juan.pal@tse-fr.eu"
+  cv               : "https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0" 
 
   # Academic websites
   academia         : # URL
@@ -145,10 +146,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-  - label: "CV"
-    icon: "fas fa-fw fa-file-pdf" # Font Awesome icon for a PDF file
-    url: "https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0" # Path to your CV file
-
 
 # Analytics
 analytics:
