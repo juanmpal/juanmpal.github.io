@@ -17,7 +17,9 @@ I am a PhD candidate at the Toulouse School of Economics.
 
 I will be on the 2025/2026 academic Job Market.
 
-<span style="color:SteelBlue">**Research Fields**:</span> Labor Economics, Industrial Organization, Economics of Education.
+<span style="color:SteelBlue">**Research Fields:**</span> Labor Economics, Industrial Organization, Economics of Education.
+
+<!-- **Research Fields:** Labor Economics, Industrial Organization, Economics of Education. -->
 
 <!-- I combine <span style="color:SteelBlue">**model-based**</span> and <span style="color:SteelBlue">**design-based**</span> methods to conduct research in <span style="color:SteelBlue">**labor**</span> and <span style="color:SteelBlue">**education**</span> economics. -->
 
