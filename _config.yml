@@ -25,9 +25,9 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Juan Martín Pal"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate"
+  bio              : 
   location         : 
-  employer         : "Toulouse School of Economics"
+  employer         : 
   uri              : # URL
   email            : "juan.pal@tse-fr.eu"
   cv               : "https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0" 
