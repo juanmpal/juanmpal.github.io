@@ -104,6 +104,14 @@
       // border: 0px solid var(--global-border-color); // juan removed picture border
     }
   }
+
+  @media (max-width: 768px) {
+  .author__avatar img {
+    max-width: 150px; /* Mobile size */
+  }
+}
+
+
 }
 
 .author__content {
