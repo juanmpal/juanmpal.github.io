@@ -218,12 +218,10 @@
     background: transparent;
     box-shadow: none;
   }
-  
-  @media (max-width: 1023px) {
-  .author__urls {
-    margin-top: 1.2em !important; /* Adjust as needed */
+
+  @media (max-width: 1050px) {
+    margin-top: 1em !important; /* Adjust as needed */
   }
-}
 
   // &:before {
   //   display: block;
