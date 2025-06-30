@@ -55,11 +55,20 @@ Don't hesitate to reach out at [<span style="color:SteelBlue">**juan.pal@tse-fr.
 
 ## <span style="color:SteelBlue">Work in Progress</span>
 
+
+### The Educational PPP: Parents, Peers, Prices
+(with Joaquin Varvasino)
+
+<details>
+
+<summary><span style="font-size:13px; font-weight:bold;">Abstract</span></summary>
+
+<span style="font-size:13px;"> This paper studies the roles of financial constraints and information frictions in enrollment and progression in higher education. Our results show that subsidies increase university access, peers enhance enrollment and match quality, and parental exposure to university causally affects children’s university enrollment. We build a dynamic structural model that quantifies these mechanisms and evaluates equity-oriented education policies.</span>
+
+</details>
+
 ### Enhancing the Effectiveness of Early Warning System in Education
 (with Francesco Agostinelli, Ciro Avitabile and Matteo Bobba)
 
 ### Competition in Online Labor Markets
 (with Ana Gazmuri, Estrella Gomez-Herrera and Frank Müller-Langer)
-
-### The Educational PPP: Parents, Peers, Prices
-(with Joaquin Varvasino)
