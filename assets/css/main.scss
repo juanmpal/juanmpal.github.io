@@ -42,11 +42,25 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
+// details {
+//   display: inline-block; // Ensures box styles apply properly
+//   background: #ffffff;
+//   border: 1px solid SteelBlue;
+//   border-radius: 8px;
+//   padding: 4px 16px;
+//   box-shadow: 0 2px 8px rgba(108, 99, 255, 0.08);
+//   // font-weight: bold;
+//   color: #2d3e50;
+//   cursor: pointer;
+//   margin-bottom: 8px;
+//   transition: background 0.2s, box-shadow 0.2s;
+// }
+
 summary {
   font-weight: bold;
   font-size:13px;
   color: SteelBlue;
-  line-height: 0; // Normal line height for the summary text
+  line-height: 1; // Normal line height for the summary text
   margin-top: 0; // No margin-top here if you're using p + details for spacing
-  margin-bottom: 1em; // Space below the details block
+  margin-bottom: 0.5em; // Space below the details block
 }
