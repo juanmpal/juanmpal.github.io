@@ -42,16 +42,9 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 
-
-// details {
-//   padding: 0px; // Padding inside the details block
-//   margin-top: 0; // No margin-top here if you're using p + details for spacing
-//   margin-bottom: 0em; // Space below the details block
-// }
-
 summary {
   font-weight: bold;
-  // cursor: pointer;
+  font-size:13px;
   color: SteelBlue;
   line-height: 0; // Normal line height for the summary text
   margin-top: 0; // No margin-top here if you're using p + details for spacing
