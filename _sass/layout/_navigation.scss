@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: #A89F91;
+  background: var(--global-bg-color);
 
   a {
     display: block;
@@ -441,11 +441,4 @@
       display: block;
     }
   }
-}
-
-
-.greedy-nav,
-.greedy-nav__item,
-.greedy-nav__link {
-  color: #ffffff; // Or your preferred color
 }
