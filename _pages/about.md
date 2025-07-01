@@ -19,9 +19,9 @@ I will be on the 2025/2026 academic Job Market.
 
 <span style="color:#A89F91">**Research Fields:**</span> Labor Economics, Industrial Organization, Economics of Education.
 
-Here is a link to my [<span style="color:#A89F91">**CV**</span>](https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0)
+Here is a link to my [**CV**](https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0)
 
-Don't hesitate to reach out at [<span style="color:#A89F91">**juan.pal@tse-fr.eu**</span>](mailto:juan.pal@tse-fr.eu)
+Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.eu)
 
 
 ## <span style="color:#A89F91">Working Papers</span>
