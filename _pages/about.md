@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<h1><span style="color:SteelBlue">Welcome!</span></h1>
+<h1><span style="color:#A89F91">Welcome!</span></h1>
 
 <p style="margin-bottom:0.75cm;">
 </p>
@@ -17,14 +17,14 @@ I am a PhD candidate at the Toulouse School of Economics.
 
 I will be on the 2025/2026 academic Job Market.
 
-<span style="color:SteelBlue">**Research Fields:**</span> Labor Economics, Industrial Organization, Economics of Education.
+<span style="color:#A89F91">**Research Fields:**</span> Labor Economics, Industrial Organization, Economics of Education.
 
-Here is a link to my [<span style="color:SteelBlue">**CV**</span>](https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0)
+Here is a link to my [<span style="color:#A89F91">**CV**</span>](https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0)
 
-Don't hesitate to reach out at [<span style="color:SteelBlue">**juan.pal@tse-fr.eu**</span>](mailto:juan.pal@tse-fr.eu)
+Don't hesitate to reach out at [<span style="color:#A89F91">**juan.pal@tse-fr.eu**</span>](mailto:juan.pal@tse-fr.eu)
 
 
-## <span style="color:SteelBlue">Working Papers</span>
+## <span style="color:#A89F91">Working Papers</span>
 
 ### Optimal Policy Design for Teacher Recruitment
 <p style="margin-bottom: 0.5em;">(job market paper) draft coming soon</p>
@@ -50,7 +50,7 @@ Don't hesitate to reach out at [<span style="color:SteelBlue">**juan.pal@tse-fr.
 </details>
 
 
-## <span style="color:SteelBlue">Work in Progress</span>
+## <span style="color:#A89F91">Work in Progress</span>
 
 
 ### The Educational PPP: Parents, Peers, Prices
