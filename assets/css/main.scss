@@ -47,7 +47,7 @@
 //   background: #ffffff;
 //   border: 1px solid SteelBlue;
 //   border-radius: 8px;
-//   padding: 4px 16px;
+//   padding: 2px 8px;
 //   box-shadow: 0 2px 8px rgba(108, 99, 255, 0.08);
 //   // font-weight: bold;
 //   color: #2d3e50;
@@ -64,3 +64,24 @@ summary {
   margin-top: 0; // No margin-top here if you're using p + details for spacing
   margin-bottom: 0.5em; // Space below the details block
 }
+
+
+// // For a box for the abstract
+// details summary + p {
+//   /* Optional: add a subtle inner shadow for depth */
+//   box-shadow: 
+//     0 4px 16px rgba(79, 140, 255, 0.10), 
+//     0 1.5px 4px rgba(0,0,0,0.04),
+//     inset 0 1px 4px rgba(79, 140, 255, 0.06);
+
+//   display: inline-block;
+//   background: #fff;
+//   border: 1px solid SteelBlue;
+//   border-radius: 8px;
+//   padding: 2px 8px;
+//   box-shadow: 0 2px 8px rgba(108, 99, 255, 0.08);
+//   color: #2d3e50;
+//   font-size: 13px !important;
+//   line-height: 1.7 !important;
+//   text-align: justify !important;
+// }
