@@ -60,14 +60,14 @@ html[data-theme="dark"] {
     --global-base-color                 : #{$background};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$background};
-    --global-border-color               : #A89F91;
+    --global-border-color               : #50785FB3;
     --global-dark-border-color          : #{$background-light};
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : #{$light-gray};
-    --global-link-color                 : #A89F91;
-    --global-link-color-hover           : mix(#000, #A89F91, 25%);
-    --global-link-color-visited         : mix(#fff, #A89F91, 25%);
+    --global-link-color                 : #50785FB3;
+    --global-link-color-hover           : mix(#000, #50785FB3, 25%);
+    --global-link-color-visited         : mix(#fff, #50785FB3, 25%);
     --global-masthead-link-color        : #{$text};
     --global-masthead-link-color-hover  : #{$background-light};
     --global-text-color                 : #{$text};
