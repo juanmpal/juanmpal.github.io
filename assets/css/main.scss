@@ -43,30 +43,15 @@
 
 
 
-
-// 1. Define Highlight Colors for Each Theme
-/* Default (light theme) */
-:root {
-  --highlight-text: #50785FB3; /* Dark text */
-}
-
-/* Dark theme */
-html[data-theme="dark"] {
-    --highlight-text: #BFE3D3; /* Light text */
-}
-
-
 /* Highlight class */
 .highlighted {
-  color: var(--highlight-text);
+  color: var(--global-border-color);
 }
-
-
 
 summary {
   font-weight: bold;
   font-size:14px;
-  color: var(--highlight-text);
+  color: var(--global-border-color);
   line-height: 1; // Normal line height for the summary text
   margin-top: 0; // No margin-top here if you're using p + details for spacing
   margin-bottom: 0.5em; // Space below the details block
