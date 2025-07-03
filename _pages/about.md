@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<h1><span style="color:#50785FB3">Welcome!</span></h1>
+<h1><span class="highlighted">Welcome!</span></h1>
 
 <p style="margin-bottom:0.75cm;">
 </p>
@@ -17,14 +17,14 @@ I am a PhD candidate at the Toulouse School of Economics.
 
 I will be on the 2025/2026 academic Job Market.
 
-<span style="color:#50785FB3">**Research Fields:**</span> Labor Economics, Industrial Organization, Economics of Education.
+<span class="highlighted">**Research Fields:**</span> Labor Economics, Industrial Organization, Economics of Education.
 
 Here is a link to my [**CV**](https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0)
 
 Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.eu)
 
 
-## <span style="color:#50785FB3">Working Papers</span>
+## <span class="highlighted">Working Papers</span>
 
 ### Optimal Policy Design for Teacher Recruitment
 <p style="margin-bottom: 0.5em;">(job market paper) draft coming soon</p>
@@ -52,7 +52,7 @@ This paper studies the design of higher education policies targeted at improving
 </details>
 
 
-## <span style="color:#50785FB3">Work in Progress</span>
+## <span class="highlighted">Work in Progress</span>
 
 
 ### The Educational PPP: Parents, Peers, Prices
