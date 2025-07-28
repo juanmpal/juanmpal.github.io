@@ -13,7 +13,7 @@ redirect_from:
 <p style="margin-bottom:0.75cm;">
 </p>
 
-I am a PhD candidate at the Toulouse School of Economics. 
+I am a PhD candidate at the [**Toulouse School of Economics**](https://www.tse-fr.eu/). 
 
 I will be on the 2025/2026 academic Job Market.
 
