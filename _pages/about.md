@@ -21,7 +21,7 @@ I will be on the 2025/2026 academic Job Market.
 
 Here is a link to my [**CV**](https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0)
 
-Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.eu)
+Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.eu) / [**juanmartinpal@gmail.com**](mailto:juanmartinpal@gmail.com) 
 
 
 ## <span class="highlighted">Working Papers</span>
