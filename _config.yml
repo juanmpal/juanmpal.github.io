@@ -30,12 +30,12 @@ author:
   employer         : 
   uri              : # URL
   email            : "juan.pal@tse-fr.eu"
-  cv               : "https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0" 
+  cv               : "/files/pal-cf.pdf" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=es&user=hJfPLwIAAAAJ&view_op=list_works&gmla=AH8HC4zXT0RFiWMO6KUtfibVW3bRd8JG4sOc-CrWuJ3Uk69FzMe4Uyr8C61cU2n1Jub6xJT_Le5PJYaB9O626ZOQ3hWkInpe30kC99t-"
+  googlescholar    : "https://scholar.google.com/citations?user=hJfPLwIAAAAJ"
   impactstory      : # URL
   orcid            : 
   semantic         : # URL
