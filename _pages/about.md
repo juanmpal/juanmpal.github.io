@@ -19,7 +19,8 @@ I will be on the 2025/2026 academic Job Market.
 
 <span class="highlighted">**Research Fields:**</span> Labor Economics, Industrial Organization, Economics of Education.
 
-Here is a link to my [**CV**](https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0)
+<!-- Here is a link to my [**CV**](https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0) -->
+Here is a link to my <a href="https://www.dropbox.com/scl/fi/dh188opd838o8vecmw7fp/pal-cv.pdf?rlkey=jyrx7ds2z1gloitdfj6pn22zu&e=1&dl=0" target="_blank" rel="noopener noreferrer"><b>CV</b></a>.
 
 Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.eu) / [**juanmartinpal@gmail.com**](mailto:juanmartinpal@gmail.com) 
 
