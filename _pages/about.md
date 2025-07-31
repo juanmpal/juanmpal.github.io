@@ -86,17 +86,43 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 <br>
 
 <style>
-table, th, td {
+.responsive-table {
+  width: 100%;
+  max-width: 500px;
+  border-collapse: collapse;
+  table-layout: fixed;
+  margin-bottom: 32px;
+  border: none;
+}
+.responsive-table th, 
+.responsive-table td {
   border: none !important;
   padding-right: 40px;
   font-size: 14px;
 }
+
+/* Responsive font size and width for small screens */
+@media (max-width: 500px) {
+  .responsive-table {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 300px) {
+  .responsive-table th, 
+  .responsive-table td {
+    font-size: 13px;
+    padding-right: 16px;
+  }
+}
 </style>
+
+
 
 
 <!-- Toulouse School of Economics -->
 <h4>Toulouse School of Economics</h4>
-<table style="border-collapse:collapse;width:425px;table-layout:fixed;margin-bottom:32px;">
+<table class="responsive-table" style="border-collapse:collapse;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
     <col style="width:45%;">
     <col style="width:27.5%;">
@@ -128,7 +154,7 @@ table, th, td {
 
 <!-- Universidad Nacional de La Plata -->
 <h4>Universidad Nacional de La Plata</h4>
-<table style="border-collapse:collapse;width:425px;table-layout:fixed;margin-bottom:32px;">
+<table class="responsive-table" style="border-collapse:collapse;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
     <col style="width:45%;">
     <col style="width:27.5%;">
@@ -155,7 +181,7 @@ table, th, td {
 
 <!-- Universidad de Buenos Aires -->
 <h4>Universidad de Buenos Aires</h4>
-<table style="border-collapse:collapse;width:425px;table-layout:fixed;margin-bottom:32px;">
+<table class="responsive-table" style="border-collapse:collapse;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
     <col style="width:45%;">
     <col style="width:27.5%;">
