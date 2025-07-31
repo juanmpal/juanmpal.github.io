@@ -124,9 +124,9 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 <h4>Toulouse School of Economics</h4>
 <table class="responsive-table" style="border-collapse:collapse;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
-    <col style="width:45%;">
-    <col style="width:27.5%;">
-    <col style="width:27.5%;">
+    <col style="width:40%;">
+    <col style="width:30%;">
+    <col style="width:30%;">
   </colgroup>
   <tbody>
     <tr>
@@ -156,9 +156,9 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 <h4>Universidad Nacional de La Plata</h4>
 <table class="responsive-table" style="border-collapse:collapse;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
-    <col style="width:45%;">
-    <col style="width:27.5%;">
-    <col style="width:27.5%;">
+    <col style="width:40%;">
+    <col style="width:30%;">
+    <col style="width:30%;">
   </colgroup>
   <tbody>
     <tr>
@@ -183,9 +183,9 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 <h4>Universidad de Buenos Aires</h4>
 <table class="responsive-table" style="border-collapse:collapse;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
-    <col style="width:45%;">
-    <col style="width:27.5%;">
-    <col style="width:27.5%;">
+    <col style="width:40%;">
+    <col style="width:30%;">
+    <col style="width:30%;">
   </colgroup>
   <tbody>
     <tr>
