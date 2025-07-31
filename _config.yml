@@ -29,8 +29,8 @@ author:
   location         : 
   employer         : 
   uri              : # URL
-  email            : "juan.pal@tse-fr.eu"
   cv               : "/files/pal-cv.pdf" 
+  email            : "juan.pal@tse-fr.eu"
 
   # Academic websites
   academia         : # URL
