@@ -34,7 +34,7 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 ### <span class="highlighted">Working Papers</span>
 
 #### Optimal Policy Design for Teacher Recruitment
-<p style="margin-bottom: 0.5em; font-size:15px">(job market paper) draft coming soon</p>
+<p style="margin-bottom: 0.5em; font-size:15px">JOB MARKET PAPER - draft coming soon</p>
 
 <details>
 
@@ -46,7 +46,7 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 
 
 #### Effort Choices and Funding Instruments in Higher Education
-<p style="margin-bottom: 0.5em; font-size:15px">with Guillem Foucault</p>
+<p style="margin-bottom: 0.5em; font-size:15px">with Guillem Foucault - draft coming soon</p>
 
 <details>
 
