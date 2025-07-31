@@ -96,11 +96,11 @@ table, th, td {
 
 <!-- Toulouse School of Economics -->
 <h4>Toulouse School of Economics</h4>
-<table style="border-collapse:collapse;width:500px;table-layout:fixed;margin-bottom:32px;">
+<table style="border-collapse:collapse;width:425px;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
-    <col style="width:40%;">
-    <col style="width:35%;">
-    <col style="width:25%;">
+    <col style="width:45%;">
+    <col style="width:27.5%;">
+    <col style="width:27.5%;">
   </colgroup>
   <tbody>
     <tr>
@@ -128,11 +128,11 @@ table, th, td {
 
 <!-- Universidad Nacional de La Plata -->
 <h4>Universidad Nacional de La Plata</h4>
-<table style="border-collapse:collapse;width:500px;table-layout:fixed;margin-bottom:32px;">
+<table style="border-collapse:collapse;width:425px;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
-    <col style="width:40%;">
-    <col style="width:35%;">
-    <col style="width:25%;">
+    <col style="width:45%;">
+    <col style="width:27.5%;">
+    <col style="width:27.5%;">
   </colgroup>
   <tbody>
     <tr>
@@ -155,11 +155,11 @@ table, th, td {
 
 <!-- Universidad de Buenos Aires -->
 <h4>Universidad de Buenos Aires</h4>
-<table style="border-collapse:collapse;width:500px;table-layout:fixed;margin-bottom:32px;">
+<table style="border-collapse:collapse;width:425px;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
-    <col style="width:40%;">
-    <col style="width:35%;">
-    <col style="width:25%;">
+    <col style="width:45%;">
+    <col style="width:27.5%;">
+    <col style="width:27.5%;">
   </colgroup>
   <tbody>
     <tr>
