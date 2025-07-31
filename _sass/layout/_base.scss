@@ -16,7 +16,7 @@ body {
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.125;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -42,9 +42,11 @@ h2 {
 
 h3 {
   font-size: $type-size-4;
+  margin-bottom: 1.5em;
 }
 
 h4 {
+  margin-top: 1em;
   font-size: $type-size-5;
 }
 
