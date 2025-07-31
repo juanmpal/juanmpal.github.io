@@ -108,13 +108,28 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 500px) {
   .responsive-table th, 
   .responsive-table td {
     font-size: 13px;
-    padding-right: 16px;
+    padding-right: 10px;
   }
 }
+
+@media (max-width: 400px) {
+  .responsive-table th, 
+  .responsive-table td {
+    font-size: 12px;
+    padding-right: 5px;
+  }
+}
+
+@media (max-width: 500px) {
+  .responsive-table col {
+    width: auto !important;
+  }
+}
+
 </style>
 
 
@@ -125,8 +140,8 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 <table class="responsive-table" style="border-collapse:collapse;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
     <col style="width:40%;">
-    <col style="width:30%;">
-    <col style="width:30%;">
+    <col style="width:27.5%;">
+    <col style="width:32.5%;">
   </colgroup>
   <tbody>
     <tr>
@@ -157,8 +172,8 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 <table class="responsive-table" style="border-collapse:collapse;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
     <col style="width:40%;">
-    <col style="width:30%;">
-    <col style="width:30%;">
+    <col style="width:27.5%;">
+    <col style="width:32.5%;">
   </colgroup>
   <tbody>
     <tr>
@@ -184,8 +199,8 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 <table class="responsive-table" style="border-collapse:collapse;table-layout:fixed;margin-bottom:32px;">
   <colgroup>
     <col style="width:40%;">
-    <col style="width:30%;">
-    <col style="width:30%;">
+    <col style="width:27.5%;">
+    <col style="width:32.5%;">
   </colgroup>
   <tbody>
     <tr>
