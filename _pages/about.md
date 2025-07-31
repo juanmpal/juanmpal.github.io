@@ -116,14 +116,6 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
   }
 }
 
-@media (max-width: 400px) {
-  .responsive-table th, 
-  .responsive-table td {
-    font-size: 12px;
-    padding-right: 5px;
-  }
-}
-
 @media (max-width: 500px) {
   .responsive-table col {
     width: auto !important;
