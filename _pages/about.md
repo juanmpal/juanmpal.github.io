@@ -127,11 +127,6 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
   </colgroup>
   <tbody>
     <tr>
-      <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;"><a href="/files/pal-syllabus-tse-micro3.pdf" target="_blank" rel="noopener noreferrer">Microeconomics 3</a></td>
-      <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;">Undergraduate</td>
-      <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;">2024-2025</td>
-    </tr>
-    <tr>
       <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;"><a href="/files/pal-syllabus-tse-applied-econometrics.pdf" target="_blank" rel="noopener noreferrer">Applied Econometrics</a></td>
       <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;">Graduate</td>
       <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;">2023-2024</td>
@@ -140,6 +135,11 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
       <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;"><a href="/files/pal-syllabus-tse-rct.pdf" target="_blank" rel="noopener noreferrer">RCT &amp; Policy Evaluation</a></td>
       <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;">Graduate</td>
       <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;">2021-2024</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;"><a href="/files/pal-syllabus-tse-micro3.pdf" target="_blank" rel="noopener noreferrer">Microeconomics 3</a></td>
+      <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;">Undergraduate</td>
+      <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;">2024-2025</td>
     </tr>
     <tr>
       <td style="border:1px solid #ccc;padding:8px 12px;text-align:left;vertical-align:top;"><a href="/files/pal-syllabus-tse-econometrics.pdf" target="_blank" rel="noopener noreferrer">Introductory Econometrics</a></td>
