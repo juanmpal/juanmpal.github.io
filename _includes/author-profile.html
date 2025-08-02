@@ -48,6 +48,9 @@
         {% if author.googlescholar %}
           <li><a href="{{ author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-graduation-cap fa-fw icon-pad-right" aria-hidden="true"></i>Google Scholar</a></li>
         {% endif %}
+        {% if author.ssrn %}
+          <li><a href="{{ author.ssrn }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-ssrn ai-fw icon-pad-right" aria-hidden="true"></i>SSRN</a></li>
+        {% endif %}
         {% if author.semantic %}
           <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>
         {% endif %}
