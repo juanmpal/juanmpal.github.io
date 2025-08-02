@@ -50,11 +50,15 @@
 
 summary {
   font-weight: bold;
-  font-size:14px;
+  font-size: 0.75em;
   color: var(--global-border-color);
   line-height: 1; // Normal line height for the summary text
   margin-top: 0; // No margin-top here if you're using p + details for spacing
   margin-bottom: 0em; // Space below the details block
+}
+
+details {
+  margin-top: 0em;
 }
 
 
@@ -87,6 +91,14 @@ details[open] > summary + p {
 }
 
 
+.coauthors {
+  margin-bottom: 0em;
+  font-size:0.85em;
+}
+
+
+
+
 // Buttons with social media icons
 .icon-btn {
   background: var(--global-bg-color);
@@ -109,12 +121,6 @@ details[open] > summary + p {
     background: color-mix(in srgb, var(--global-border-color) 80%, #fff 20%);
   }
 }
-
-.coauthors {
-  margin-bottom: 0.5em;
-  font-size:0.85em;
-}
-
 
 .responsive-table {
   width: 100%;
