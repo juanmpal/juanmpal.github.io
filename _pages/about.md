@@ -24,7 +24,7 @@ Here is a link to my <a href="/files/pal-cv.pdf" target="_blank" rel="noopener n
 Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.eu) / [**juanmartinpal@gmail.com**](mailto:juanmartinpal@gmail.com) 
 
 
-<div style="margin-top: 1em; margin-bottom: 1.5em;">
+<div style="margin-top: 1.5em; margin-bottom: 1.5em;">
   <!-- CV -->
   <a href="/files/pal-cv.pdf" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px; text-decoration:none;">
     <span style="background:#222; color:white; border-radius:50%; width:40px; height:40px; display:inline-flex; align-items:center; justify-content:center; font-size:20px;">
