@@ -25,30 +25,6 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 
 
 
-<!-- Add this CSS to your stylesheet or inside a <style> tag -->
-<style>
-.icon-btn {
-  background: var(--global-bg-color);
-  color: var(--global-text-color);
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 20px;
-  border: 2px solid var(--global-border-color);
-  box-sizing: border-box;
-  padding: 2px;
-  transition: background 0.2s;
-}
-
-a:hover .icon-btn,
-a:focus .icon-btn {
-  background: color-mix(in srgb, var(--global-border-color) 80%, #fff 20%);
-}
-</style>
-
 <div style="margin-top: 1.5em; margin-bottom: 1.5em;">
   <!-- CV -->
   <a href="/files/pal-cv.pdf" target="_blank" rel="noopener noreferrer" title="CV" style="display:inline-block; margin-right:10px; text-decoration:none;">
@@ -100,25 +76,25 @@ a:focus .icon-btn {
 
 
 #### Optimal Policy Design for Teacher Recruitment
-<p style="margin-bottom: 0.5em; font-size:15px">JOB MARKET PAPER - draft coming soon</p>
+<p style="coauthors">JOB MARKET PAPER - draft coming soon</p>
 
 <details>
 
 <summary>Abstract</summary>
 
-<span style="font-size:0.85em; max-width:700px; color: var(--global-text-color-light); display:block; text-align: justify; line-height: 1.5; margin-top:0.5em;">This paper studies the design of higher education policies targeted at improving teacher recruitment. I leverage the introduction of a policy in Chile that aimed to raise teacher quality by crowding-in higher performing students into Education programs, while crowding-out the lower-performing ones. Exploiting the sharp assignment rule I estimate that, at the threshold, enrollment of high performing students at teacher colleges increased by 42%, with low-income students coming disproportionately from non-enrollment. The policy generated a positive composition effect of 0.25SD in test scores, which lead to an increase in 0.11SD in Teacher Value Added and 0.12SD in Teaching Skills. I develop a general equilibrium model of the higher education market. In doing so, I present a novel method for solving discrete-continuous games in large markets. Counterfactual simulations show that alternative policies can improve the distribution of students that enroll in Education programs. The distribution of college quality limits the impact on Teacher Value Added, while Targeting the policy to low-income students can yield further gains at no additional cost.</span>
+<p> This paper studies the design of higher education policies targeted at improving teacher recruitment. I leverage the introduction of a policy in Chile that aimed to raise teacher quality by crowding-in higher performing students into Education programs, while crowding-out the lower-performing ones. Exploiting the sharp assignment rule I estimate that, at the threshold, enrollment of high performing students at teacher colleges increased by 42%, with low-income students coming disproportionately from non-enrollment. The policy generated a positive composition effect of 0.25SD in test scores, which lead to an increase in 0.11SD in Teacher Value Added and 0.12SD in Teaching Skills. I develop a general equilibrium model of the higher education market. In doing so, I present a novel method for solving discrete-continuous games in large markets. Counterfactual simulations show that alternative policies can improve the distribution of students that enroll in Education programs. The distribution of college quality limits the impact on Teacher Value Added, while Targeting the policy to low-income students can yield further gains at no additional cost. </p>
 
 </details>
 
 
 #### Effort Choices and Funding Instruments in Higher Education
-<p style="margin-bottom: 0.5em; font-size:15px">with Guillem Foucault - draft coming soon</p>
+<p style="coauthors">with Guillem Foucault - draft coming soon</p>
 
 <details>
 
 <summary>Abstract</summary>
 
-<span style="font-size:0.85em; max-width:700px; color: var(--global-text-color-light); display:block; text-align: justify; line-height: 1.5; margin-top:0.5em;"> This paper examines the effects of Free College policies on student enrollment and academic performance, with a focus on the 2016 Chilean reform that granted tuition-free higher education to students from the lowest five income deciles. Using a difference-in-differences approach, we find that Free College increased enrollment and persistence in higher education but had modest effects on graduation and dropout rates. To disentangle the role of student effort from selection effects, we develop a structural model in which students choose effort levels in response to financial incentives. Our results highlight that while Free College expands access, it may also weaken performance incentives due to the removal of academic progress requirements. Counterfactual simulations suggest that alternative funding mechanisms could improve both access and academic outcomes by balancing affordability and incentives for effort. </span>
+<p>This paper examines the effects of Free College policies on student enrollment and academic performance, with a focus on the 2016 Chilean reform that granted tuition-free higher education to students from the lowest five income deciles. Using a difference-in-differences approach, we find that Free College increased enrollment and persistence in higher education but had modest effects on graduation and dropout rates. To disentangle the role of student effort from selection effects, we develop a structural model in which students choose effort levels in response to financial incentives. Our results highlight that while Free College expands access, it may also weaken performance incentives due to the removal of academic progress requirements. Counterfactual simulations suggest that alternative funding mechanisms could improve both access and academic outcomes by balancing affordability and incentives for effort. </p>
 
 </details>
 
@@ -127,21 +103,21 @@ a:focus .icon-btn {
 
 
 #### The Educational PPP: Parents, Peers, Prices
-<p style="margin-bottom: 0.5em; font-size:15px">with Joaquin Varvasino</p>
+<p style="coauthors">with Joaquin Varvasino</p>
 
 <details>
 
 <summary>Abstract</summary>
 
-<span style="font-size:0.85em; max-width:700px; color: var(--global-text-color-light); display:block; text-align: justify; line-height: 1.5; margin-top:0.5em;"> This paper studies the roles of financial constraints and information frictions in enrollment and progression in higher education. Our results show that subsidies increase university access, peers enhance enrollment and match quality, and parental exposure to university causally affects children’s university enrollment. We build a dynamic structural model that quantifies these mechanisms and evaluates equity-oriented education policies.</span>
+<p> This paper studies the roles of financial constraints and information frictions in enrollment and progression in higher education. Our results show that subsidies increase university access, peers enhance enrollment and match quality, and parental exposure to university causally affects children’s university enrollment. We build a dynamic structural model that quantifies these mechanisms and evaluates equity-oriented education policies.</p>
 
 </details>
 
 #### Enhancing the Effectiveness of Early Warning System in Education
-<p style="margin-bottom: 0.5em; font-size:15px">with Francesco Agostinelli, Ciro Avitabile and Matteo Bobba</p>
+<p style="coauthors">with Francesco Agostinelli, Ciro Avitabile and Matteo Bobba</p>
 
 #### Competition in Online Labor Markets
-<p style="margin-bottom: 0.5em; font-size:15px">with Ana Gazmuri, Estrella Gomez-Herrera and Frank Müller-Langer</p>
+<p style="coauthors">with Ana Gazmuri, Estrella Gomez-Herrera and Frank Müller-Langer</p>
 
 
 
