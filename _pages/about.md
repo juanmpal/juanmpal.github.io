@@ -28,7 +28,7 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 <!-- Add this CSS to your stylesheet or inside a <style> tag -->
 <style>
 .icon-btn {
-  background: #4e4e4e;
+  background: $gray;
   color: white;
   border-radius: 50%;
   width: 40px;
