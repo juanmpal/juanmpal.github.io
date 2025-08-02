@@ -161,11 +161,9 @@ details[open] > summary + p {
     margin: 0 !important;
     padding: 0 0px !important; // minimal horizontal padding
     // font-size: 1.1em; // or smaller if needed
-    line-height: 1;
+    line-height: 1.2;
   }
 }
-
-
 
 .social_tweak a {
   background: var(--global-bg-color);
