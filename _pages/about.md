@@ -28,8 +28,8 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 <!-- Add this CSS to your stylesheet or inside a <style> tag -->
 <style>
 .icon-btn {
-  background: $gray;
-  color: white;
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
   border-radius: 50%;
   width: 40px;
   height: 40px;
