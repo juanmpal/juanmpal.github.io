@@ -114,3 +114,30 @@ details[open] > summary + p {
   margin-bottom: 0.5em;
   font-size:0.85em;
 }
+
+
+.responsive-table {
+  width: 100%;
+  max-width: 500px;
+  border-collapse: collapse;
+  table-layout: fixed;
+  margin-bottom: 32px;
+  border: none;
+}
+.responsive-table th, 
+.responsive-table td {
+  border: none !important;
+  padding-right: 40px;
+  font-size: 14px;
+}
+
+/* Responsive font size and width for small screens */
+@media (max-width: 500px) {
+  .responsive-table {
+    max-width: 100%;
+  }
+  .responsive-table col {
+    width: auto !important;
+  }
+}
+

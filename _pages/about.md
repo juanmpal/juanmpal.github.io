@@ -76,7 +76,7 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 
 
 #### Optimal Policy Design for Teacher Recruitment
-<p style="coauthors">JOB MARKET PAPER - draft coming soon</p>
+<p class="coauthors">JOB MARKET PAPER - draft coming soon</p>
 
 <details>
 
@@ -88,7 +88,7 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 
 
 #### Effort Choices and Funding Instruments in Higher Education
-<p style="coauthors">with Guillem Foucault - draft coming soon</p>
+<p class="coauthors">with Guillem Foucault - draft coming soon</p>
 
 <details>
 
@@ -103,7 +103,7 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 
 
 #### The Educational PPP: Parents, Peers, Prices
-<p style="coauthors">with Joaquin Varvasino</p>
+<p class="coauthors">with Joaquin Varvasino</p>
 
 <details>
 
@@ -114,10 +114,10 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 </details>
 
 #### Enhancing the Effectiveness of Early Warning System in Education
-<p style="coauthors">with Francesco Agostinelli, Ciro Avitabile and Matteo Bobba</p>
+<p class="coauthors">with Francesco Agostinelli, Ciro Avitabile and Matteo Bobba</p>
 
 #### Competition in Online Labor Markets
-<p style="coauthors">with Ana Gazmuri, Estrella Gomez-Herrera and Frank Müller-Langer</p>
+<p class="coauthors">with Ana Gazmuri, Estrella Gomez-Herrera and Frank Müller-Langer</p>
 
 
 
@@ -125,36 +125,6 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 ## <span class="highlighted">Teaching</span>
 
 <br>
-
-<style>
-.responsive-table {
-  width: 100%;
-  max-width: 500px;
-  border-collapse: collapse;
-  table-layout: fixed;
-  margin-bottom: 32px;
-  border: none;
-}
-.responsive-table th, 
-.responsive-table td {
-  border: none !important;
-  padding-right: 40px;
-  font-size: 14px;
-}
-
-/* Responsive font size and width for small screens */
-@media (max-width: 500px) {
-  .responsive-table {
-    max-width: 100%;
-  }
-  .responsive-table col {
-    width: auto !important;
-  }
-}
-
-
-</style>
-
 
 
 
