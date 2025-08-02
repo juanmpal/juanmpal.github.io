@@ -25,22 +25,28 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 
 
 <div style="margin-top: 1em; margin-bottom: 1.5em;">
-  <!-- Email -->
-  <a href="mailto:juan.pal@tse-fr.eu" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px; text-decoration:none;">
-    <span style="background:#6c63ff; color:white; border-radius:50%; width:40px; height:40px; display:inline-flex; align-items:center; justify-content:center; font-size:20px;">
-      <i class="fas fa-envelope"></i>
-    </span>
-  </a>
   <!-- CV -->
   <a href="/files/pal-cv.pdf" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px; text-decoration:none;">
     <span style="background:#222; color:white; border-radius:50%; width:40px; height:40px; display:inline-flex; align-items:center; justify-content:center; font-size:20px;">
       <i class="fas fa-file-alt"></i>
     </span>
   </a>
-  <!-- Twitter -->
-  <a href="https://twitter.com/juanmpal" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px; text-decoration:none;">
-    <span style="background:#1da1f2; color:white; border-radius:50%; width:40px; height:40px; display:inline-flex; align-items:center; justify-content:center; font-size:20px;">
-      <i class="fab fa-twitter"></i>
+  <!-- Email -->
+  <a href="mailto:juan.pal@tse-fr.eu" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px; text-decoration:none;">
+    <span style="background:#6c63ff; color:white; border-radius:50%; width:40px; height:40px; display:inline-flex; align-items:center; justify-content:center; font-size:20px;">
+      <i class="fas fa-envelope"></i>
+    </span>
+  </a>
+  <!-- Google Scholar -->
+    <a href="https://scholar.google.com/citations?user=hJfPLwIAAAAJ" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px; text-decoration:none;">
+    <span style="background:#4285f4; color:white; border-radius:50%; width:40px; height:40px; display:inline-flex; align-items:center; justify-content:center; font-size:22px;">
+      <i class="fas fa-graduation-cap fa-fw icon-pad-right" aria-hidden="true"></i>
+    </span>
+  </a>
+  <!-- SSRN -->
+  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7817462" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px; text-decoration:none;">
+    <span style="background:#4e4e4e; color:white; border-radius:50%; width:40px; height:40px; display:inline-flex; align-items:center; justify-content:center; font-size:20px;">
+      <i class="ai ai-ssrn"></i>
     </span>
   </a>
   <!-- LinkedIn -->
@@ -49,16 +55,10 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
       <i class="fab fa-linkedin-in"></i>
     </span>
   </a>
-  <!-- Google Scholar -->
-    <a href="https://scholar.google.com/citations?user=hJfPLwIAAAAJ" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px; text-decoration:none;">
-    <span style="background:#4285f4; color:white; border-radius:50%; width:40px; height:40px; display:inline-flex; align-items:center; justify-content:center; font-size:22px;">
-      <span class="material-icons" style="color:white;">school</span>
-    </span>
-  </a>
-  <!-- SSRN -->
-  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7817462" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px; text-decoration:none;">
-    <span style="background:#4e4e4e; color:white; border-radius:50%; width:40px; height:40px; display:inline-flex; align-items:center; justify-content:center; font-size:20px;">
-      <i class="ai ai-ssrn"></i>
+  <!-- Twitter -->
+  <a href="https://twitter.com/juanmpal" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px; text-decoration:none;">
+    <span style="background:#1da1f2; color:white; border-radius:50%; width:40px; height:40px; display:inline-flex; align-items:center; justify-content:center; font-size:20px;">
+      <i class="fab fa-twitter"></i>
     </span>
   </a>
 </div>
