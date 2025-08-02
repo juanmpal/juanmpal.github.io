@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, TSE"
   # location         : "Toulouse, France"
-  employer         : "Toulouse School of Economics"
+  # employer         : "Toulouse School of Economics"
   uri              : # URL
   cv               : "/files/pal-cv.pdf" 
   email            : "juan.pal@tse-fr.eu"
