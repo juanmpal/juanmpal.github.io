@@ -40,7 +40,7 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
   <!-- Google Scholar -->
     <a href="https://scholar.google.com/citations?user=hJfPLwIAAAAJ" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin-right:10px; text-decoration:none;">
     <span style="background:#4285f4; color:white; border-radius:50%; width:40px; height:40px; display:inline-flex; align-items:center; justify-content:center; font-size:22px;">
-      <i class="fas fa-graduation-cap fa-fw icon-pad-right" aria-hidden="true"></i>
+      <i class="fas fa-graduation-cap"></i>
     </span>
   </a>
   <!-- SSRN -->
