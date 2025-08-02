@@ -27,17 +27,17 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 
 <div style="margin-top: 1.5em; margin-bottom: 1.5em;">
   <!-- CV -->
-  <a href="/files/pal-cv.pdf" target="_blank" rel="noopener noreferrer" title="CV" style="display:inline-block; margin-right:10px; text-decoration:none;">
+  <!-- <a href="/files/pal-cv.pdf" target="_blank" rel="noopener noreferrer" title="CV" style="display:inline-block; margin-right:10px; text-decoration:none;">
     <span class="icon-btn">
       <i class="fas fa-file-alt"></i>
     </span>
-  </a>
+  </a> -->
   <!-- Email -->
-  <a href="mailto:juan.pal@tse-fr.eu" target="_blank" rel="noopener noreferrer" title="Email" style="display:inline-block; margin-right:10px; text-decoration:none;">
+  <!-- <a href="mailto:juan.pal@tse-fr.eu" target="_blank" rel="noopener noreferrer" title="Email" style="display:inline-block; margin-right:10px; text-decoration:none;">
     <span class="icon-btn">
       <i class="fas fa-envelope"></i>
     </span>
-  </a>
+  </a> -->
   <!-- Google Scholar -->
   <a href="https://scholar.google.com/citations?user=hJfPLwIAAAAJ" target="_blank" rel="noopener noreferrer" title="Google Scholar" style="display:inline-block; margin-right:10px; text-decoration:none;">
     <span class="icon-btn" style="font-size:22px;">
