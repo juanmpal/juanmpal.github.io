@@ -154,3 +154,20 @@ details[open] > summary + p {
   }
 }
 
+
+// When avatar goes on top, less margin between icons
+@media (max-width: 925px) {
+  .author__urls a {
+    margin: 0 !important;
+    padding: 0 0px !important; // minimal horizontal padding
+    // font-size: 1.1em; // or smaller if needed
+    line-height: 1;
+  }
+}
+
+
+
+.social_tweak a {
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
+}

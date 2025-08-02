@@ -46,10 +46,10 @@
           <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
         {% endif %}      
         {% if author.googlescholar %}
-          <li><a href="{{ author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-graduation-cap fa-fw icon-pad-right" aria-hidden="true"></i>Google Scholar</a></li>
+          <li class = "social_tweak"><a href="{{ author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-graduation-cap fa-fw icon-pad-right" aria-hidden="true"></i>Google Scholar</a></li>
         {% endif %}
         {% if author.ssrn %}
-          <li><a href="{{ author.ssrn }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-ssrn ai-fw icon-pad-right" aria-hidden="true"></i>SSRN</a></li>
+          <li class = "social_tweak"><a href="{{ author.ssrn }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-ssrn ai-fw icon-pad-right" aria-hidden="true"></i>SSRN</a></li>
         {% endif %}
         {% if author.semantic %}
           <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>
@@ -92,10 +92,10 @@
 
         <!-- Font Awesome icons / Social media -->
         {% if author.linkedin %}
-          <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
+          <li class = "social_tweak"><a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
         {% endif %}
         {% if author.twitter %}
-          <li><a href="https://twitter.com/{{ author.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-twitter icon-pad-right" aria-hidden="true"></i>Twitter/X</a></li>
+          <li class = "social_tweak"><a href="https://twitter.com/{{ author.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-twitter icon-pad-right" aria-hidden="true"></i>Twitter/X</a></li>
         {% endif %}    
         {% if author.bluesky %}
           <li><a href="https://bsky.app/profile/{{ author.bluesky }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
