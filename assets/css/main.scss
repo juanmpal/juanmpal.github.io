@@ -170,3 +170,15 @@ details[open] > summary + p {
   color: var(--global-text-color);
 }
 
+
+
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+  .sidebar {
+    max-width: 150px !important; // or a value that fits your design
+    width: 150px !important;
+  }
+  // .main {
+  //   margin-left: 220px; // match sidebar width
+  // }
+}
+
