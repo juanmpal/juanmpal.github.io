@@ -40,12 +40,14 @@ h1 {
 h2 {
   font-size: $type-size-3;
   color: var(--global-border-color);
+  // margin-bottom: 2em;
 }
 
 h3 {
   color: var(--global-border-color);
   font-size: $type-size-4;
   margin-bottom: 1em;
+  // margin-top: 0.75em;
 }
 
 h4 {
