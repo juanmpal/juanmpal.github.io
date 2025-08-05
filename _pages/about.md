@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<h1><span class="highlighted">Welcome!</span></h1>
+# Welcome!
 
 <p style="margin-bottom:0.75cm;">
 </p>
@@ -68,15 +68,13 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 
 
 
-## <span class="highlighted">Research</span>
+## Research
 
 
+### Job Market Paper
 
-### <span class="highlighted">Working Papers</span>
-
-
-#### Optimal Policy Design for Teacher Recruitment
-<p class="coauthors">JOB MARKET PAPER - draft coming soon</p>
+##### Optimal Policy Design for Teacher Recruitment
+<p class="coauthors">Draft coming soon</p>
 
 <details>
 
@@ -87,7 +85,10 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 </details>
 
 
-#### Effort Choices and Funding Instruments in Higher Education
+### Working Papers
+
+
+##### Effort Choices and Funding Instruments in Higher Education
 <p class="coauthors">with Guillem Foucault - draft coming soon</p>
 
 <details>
@@ -99,10 +100,11 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 </details>
 
 
-### <span class="highlighted">Work in Progress</span>
+
+### Work in Progress
 
 
-#### The Educational PPP: Parents, Peers, Prices
+##### The Educational PPP: Parents, Peers, Prices
 <p class="coauthors">with Joaquin Varvasino</p>
 
 <details>
@@ -113,16 +115,27 @@ Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.e
 
 </details>
 
-#### Enhancing the Effectiveness of Early Warning System in Education
+##### Enhancing the Effectiveness of Early Warning System in Education
 <p class="coauthors">with Francesco Agostinelli, Ciro Avitabile and Matteo Bobba</p>
 
-#### Competition in Online Labor Markets
+##### Competition in Online Labor Markets
 <p class="coauthors">with Ana Gazmuri, Estrella Gomez-Herrera and Frank Müller-Langer</p>
 
 
 
+### Older Work
 
-## <span class="highlighted">Teaching</span>
+
+##### <a href="https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas255.pdf" target="_blank" rel="noopener noreferrer" style="color:var(--global-text-color)">Brechas de Género: Una Exploración Más Allá de la Media</a>
+<p class="coauthors">2019, CEDLAS Working Papers N° 255</p>
+
+
+
+
+
+
+
+## Teaching
 
 <br>
 
