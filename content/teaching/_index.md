@@ -15,9 +15,9 @@ sitemap:
 <!-- Unified Table for All Courses -->
 <table class="responsive-table">
   <colgroup>
-    <col style="width:40%;">
-    <col style="width:27.5%;">
-    <col style="width:32.5%;">
+    <col style="width:35%;">
+    <col style="width:35%;">
+    <col style="width:30%;">
   </colgroup>
   <tbody>
     <!-- Toulouse School of Economics -->
