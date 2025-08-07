@@ -6,6 +6,8 @@ theme = 'typo'
 # Google analytics code
 googleAnalytics = "G-xxxxxxxxx"
 
+publishDir = "docs"
+
 [taxonomies]
 tag = 'tags'
 
@@ -105,3 +107,4 @@ category = "General"
 categoryid = "categoryId"
 mapping = "pathname"
 theme = "preferred_color_scheme"
+
