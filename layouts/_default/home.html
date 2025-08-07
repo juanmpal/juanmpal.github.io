@@ -1,0 +1,59 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{/* Intro summary section with image and social icons */}}
+{{ if or .Site.Params.homeIntroTitle .Site.Params.homeIntroContent }}
+<div class="home-intro-flex">
+    <div class="home-intro-img">
+        <img src="/img/bio-photo.jpg" alt="Juan Pal" />
+    </div>
+    <div class="home-intro-text">
+        {{ with .Site.Params.homeIntroTitle }}
+        <h1>{{ . }}</h1>
+        {{ end }}
+
+        {{ with .Site.Params.homeIntroContent }}
+        <div>{{ . | markdownify }}</div>
+        {{ end }}
+
+        {{/* Social Icons INSIDE the intro text */}}
+        {{ with site.Params.social }}
+        <div class="social-icons">
+            {{- range . }}
+            <a href="{{ trim .url " " | safeURL }}" target="_blank"
+                rel="noopener noreferrer me"
+                title="{{ (.title | default .name) | title }}">
+                {{ partial "svg.html" . }}
+            </a>
+            {{- end }}
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
+
+{{/* Collection Section */}}
+{{ if .Site.Params.homeCollection }}
+<div class="list-container">
+    {{ with .Site.Params.homeCollectionTitle}}
+    <h1> {{ . }} </h1>
+    {{ end }}
+
+    {{ $pages := where .Site.RegularPages "Section" .Site.Params.homeCollection }}
+    {{ $paginationSize := 1}}
+    {{ if (gt .Site.Params.paginationSize 0) }}
+    {{ $paginationSize = .Site.Params.paginationSize }}
+    {{ end }}
+
+    {{ $paginator := .Paginate $pages $paginationSize }}
+
+    {{ range $index, $page := $paginator.Pages }}
+    {{ partial "post-entry.html" $page}}
+    {{ end }}
+
+    {{ partial "pagination-controls.html" $paginator}}
+</div>
+{{ end }}
+
+{{ end }}

@@ -1,0 +1,107 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Juan Pal'
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+# Meta description
+description = "PhD Candidate, Toulouse School of Economics"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'juancho'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Welcome!'
+homeIntroContent = """
+
+I am a PhD candidate at the [**Toulouse School of Economics**](https://www.tse-fr.eu/). 
+
+I will be on the 2025/2026 academic Job Market.
+
+**Research Fields:** Labor Economics, Industrial Organization, Economics of Education.
+
+Here is a link to my [**CV**](/files/pal-cv.pdf).
+
+Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.eu) / [**juanmartinpal@gmail.com**](mailto:juanmartinpal@gmail.com) 
+
+"""
+
+# Collection to display on home
+# homeCollectionTitle = 'Posts'
+# homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = '2 Jan 2006'
+
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = false
+#showCurrentPage = true
+#home = "Home"
+
+
+# Social icons
+
+[[params.social]]
+name = "googlescholar"
+url = "https://scholar.google.com/citations?user=hJfPLwIAAAAJ"
+
+[[params.social]]
+name = "ssrn"
+url = "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7817462"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/jmpal/"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/juanmpal"
+
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/juanmpal"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "research"
+url = "/research"
+
+[[params.menu]]
+name = "teaching"
+url = "/teaching"
+
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+[markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"

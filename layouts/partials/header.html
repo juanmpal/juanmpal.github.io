@@ -1,0 +1,44 @@
+{{/* Header */}}
+
+<div class="header">
+
+    {{ if or (not (.Param "hideHeader")) .IsHome }}
+
+    <h1 class="header-title">
+        <a href="{{ site.BaseURL }}">{{ site.Title }}</a>
+    </h1>
+
+    <div class="header-menu">
+        {{ $currentPage := . }}
+
+        {{ with site.Params.menu }}
+        {{ range . }}
+        <p class="small{{ if eq .name (lower $currentPage.Name) }} bold active-section{{ end }}">
+            <a href="{{ .url }}" {{ if and (isset . "newTab") .newTab
+                }}target="_blank" rel="noopener noreferrer" {{ end }}>
+                {{.name }}
+            </a>
+        </p>
+        {{ end }}
+
+        <!-- Theme toggle button: subtle minimal icon -->
+        <button id="theme-toggle" aria-label="Toggle dark/light mode" style="background:none;border:none;cursor:pointer;padding:0;display:flex;align-items:center;">
+        <svg id="theme-toggle-icon" width="14" height="14" viewBox="0 0 28 28" fill="none" aria-hidden="true">
+            <!-- Left half: dark -->
+            <path d="M14 2
+                    a12 12 0 1 0 0 24
+                    z" fill="#474747"/>
+            <!-- Right half: white -->
+            <path d="M14 2
+                    a12 12 0 0 1 0 24
+                    z" fill="#fff"/>
+            <!-- Outline -->
+            <circle cx="14" cy="14" r="12" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        </svg>
+        </button>
+        {{ end }}
+    </div>
+
+    {{ end }}
+
+</div>

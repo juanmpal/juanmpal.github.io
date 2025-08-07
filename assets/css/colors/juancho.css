@@ -1,0 +1,19 @@
+:root {
+    --content-primary: rgb(36, 36, 36);
+    --content-secondary: rgb(117, 117, 117);
+    --background: rgb(255, 255, 255);
+    --code-background: rgb(249, 249, 249);
+    --code-border: #50785FB3;
+    /* --code-border: #006994; blue */ 
+    --abstract-color: mix(#000, $gray, 60%);
+}
+
+.dark {
+    --content-primary: rgb(218, 218, 218);
+    --content-secondary: rgb(140, 140, 140);
+    --background: #474747;
+    --code-background: rgb(30, 30, 30);
+    --code-border: #78C3A1;
+    /* --code-border: #4db3d8;  blue */ 
+    --abstract-color: mix(#fff, $gray, 50%);
+}

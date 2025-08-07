@@ -1,0 +1,169 @@
+/*===========================*/
+
+/*
+This are my custom settings, but there are also some
+other changes in the main body of the file
+*/
+
+/*===========================*/
+
+
+.active-section {
+    color: var(--code-border); /* Replace with your desired color */
+}
+
+.highlighted {
+  color: var(--code-border);
+}
+
+b, strong {
+  color: var(--code-border);
+}
+
+
+.responsive-table {
+  width: 100%;
+  max-width: 500px;
+  border-collapse: collapse;
+  table-layout: fixed;
+  margin-bottom: 32px;
+  border: none !important;
+  margin-left: 0;      /* Ensures left alignment */
+  /* margin-right: auto;  Prevents centering */
+}
+.responsive-table th, 
+.responsive-table td {
+  border: none !important;
+  padding-right: 5px;
+}
+.responsive-table tr > td[colspan="3"] {
+  padding-top: 24px;
+}
+
+
+tbody tr {
+  border: none !important;
+}
+
+/* Responsive font size and width for small screens */
+@media (max-width: 500px) {
+  .responsive-table {
+    max-width: 100%;
+  }
+  .responsive-table col {
+    width: auto !important;
+  }
+}
+
+
+
+.home-intro-flex {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.home-intro-img img {
+  width: 30vw;           /* Fluid width: 30% of viewport width */
+  max-width: 300px;      /* Never larger than 300px */
+  min-width: 100px;      /* Never smaller than 100px */
+  height: auto;          /* Maintain aspect ratio */
+  object-fit: cover;
+  border-radius: 0%;
+  border: 2px solid var(--code-border);
+  padding: 1px;
+  transition: width 0.2s;
+}
+
+.home-intro-text {
+  flex: 1;
+}
+
+.home-intro-text h1 {
+  margin-top: 0;
+}
+
+
+/* Stack layout on small screens */
+/* @media (max-width: 600px) {
+  .home-intro-flex {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+} */
+
+/* Hide image on very small screens */
+@media (max-width: 600px) {
+  .home-intro-img {
+    display: none;
+  }
+}
+
+
+
+.social-icons {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+
+
+
+
+summary {
+  font-weight: bold;
+  font-size: 0.9em !important;
+  color: var(--code-border);
+  line-height: 1; /* Normal line height for the summary text */
+  margin-top: 0; /* No margin-top here if you're using p + details for spacing */
+  margin-bottom: 0em; /* Space below the details block */
+  position: relative;
+  padding-left: 1.5em; /* Space for the icon */
+  cursor: pointer;
+  list-style: none; /* Remove default arrow in some browsers */
+}
+
+/* Chevron icon before summary text (down when closed, up when open) */
+summary::before {
+  content: '';
+  position: absolute;
+  left: 0.2em;
+  top: 50%;
+  transform: translateY(-50%) rotate(0deg);
+  width: 1em;
+  height: 1em;
+  background: no-repeat center/contain url('data:image/svg+xml;utf8,<svg fill="none" stroke="gray" stroke-width="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><polyline points="4,6 8,10 12,6"/></svg>');
+  transition: transform 0.2s;
+}
+
+/* Rotate chevron up when open */
+details[open] > summary::before {
+  transform: translateY(-50%) rotate(180deg);
+}
+
+/* For a box for the abstract */
+details summary + p {
+  display: block;
+  background: var(--background);
+  border: 1.5px solid var(--code-border);
+  border-radius: 8px;
+  padding: 2px 8px;
+  color: var(--abstract-color);
+  font-size: 0.95em !important;
+  line-height: 1.5 !important;
+  text-align: justify !important;
+  max-width: 600px;
+}
+
+/* Increase space when details is open */
+details[open] > summary + p {
+  margin-top: 0.5em;
+}
+
+
+.coauthors {
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+  font-size:0.9em !important;
+}
