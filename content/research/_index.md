@@ -11,10 +11,12 @@ sitemap:
 ---
 
 
-### Job Market Paper
+
+### Working Papers
+
 
 #### [Optimal Policy Design for Teacher Recruitment](/files/pal-jmp.pdf)
-<p class="coauthors"> </p>
+<p class="coauthors">JOB MARKET PAPER</p>
 
 <details>
 
@@ -24,8 +26,6 @@ sitemap:
 
 </details>
 
-
-### Working Papers
 
 
 #### Effort Choices and Funding Instruments in Higher Education
