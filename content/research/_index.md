@@ -13,8 +13,8 @@ sitemap:
 
 ### Job Market Paper
 
-#### Optimal Policy Design for Teacher Recruitment
-<p class="coauthors">Draft coming soon</p>
+#### [Optimal Policy Design for Teacher Recruitment](/files/pal-jmp.pdf)
+<p class="coauthors"> </p>
 
 <details>
 
@@ -66,7 +66,7 @@ sitemap:
 ### Older Work
 
 
-#### <a href="https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas255.pdf" target="_blank" rel="noopener noreferrer" style="color:var(--global-text-color)">Brechas de Género: Una Exploración Más Allá de la Media</a>
+#### [Brechas de Género: Una Exploración Más Allá de la Media](https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas255.pdf)
 <p class="coauthors">2019, CEDLAS Working Papers N° 255</p>
 
 
