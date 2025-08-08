@@ -4,7 +4,8 @@
     --background: rgb(255, 255, 255);
     --code-background: rgb(249, 249, 249);
     --code-border: #50785FB3;
-    /* --code-border: #006994; blue */ 
+    /* --code-border: rgb(200,50,50);   red. */
+    /* --code-border: #006994;          blue */
     --abstract-color: mix(#000, $gray, 60%);
 }
 
