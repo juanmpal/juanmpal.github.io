@@ -30,6 +30,7 @@ b, strong {
   border: none !important;
   margin-left: 0;      /* Ensures left alignment */
   /* margin-right: auto;  Prevents centering */
+  font-size: 0.9em !important;
 }
 .responsive-table th, 
 .responsive-table td {
@@ -39,7 +40,6 @@ b, strong {
 .responsive-table tr > td[colspan="3"] {
   padding-top: 24px;
 }
-
 
 tbody tr {
   border: none !important;
