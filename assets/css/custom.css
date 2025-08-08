@@ -103,18 +103,21 @@ tbody tr {
 
 
 
-
+/* Style for the summary element */
 summary {
   font-weight: bold;
   font-size: 0.9em !important;
   color: var(--code-border);
   line-height: 1; /* Normal line height for the summary text */
-  margin-top: 0; /* No margin-top here if you're using p + details for spacing */
-  margin-bottom: 0em; /* Space below the details block */
+  margin-top: 0;
+  margin-bottom: 0em;
   position: relative;
-  padding-left: 1.5em; /* Space for the icon */
+  padding-left: 1.5em; /* Space for the chevron icon */
   cursor: pointer;
   list-style: none; /* Remove default arrow in some browsers */
+  display: flex; /* Use flexbox to align Abstract and links inline */
+  align-items: baseline; /* Align items to the text baseline for precise alignment */
+  gap: 1em; /* Space between Abstract and links */
 }
 
 /* Chevron icon before summary text (down when closed, up when open) */
@@ -135,7 +138,30 @@ details[open] > summary::before {
   transform: translateY(-50%) rotate(180deg);
 }
 
-/* For a box for the abstract */
+/* Style for the links container */
+.summary-links {
+  display: flex;
+  align-items: baseline; /* Align links to the text baseline */
+  gap: 1em; /* Space between links */
+  font-size: 1em; /* Match summary font size */
+  line-height: 1; /* Match summary line height */
+  /* margin-left: 0.5em; Slight offset to balance spacing */
+  font-weight: bold;
+}
+
+/* Style for the links */
+.summary-links a {
+  color: var(--code-border); /* Match the Abstract color */
+  text-decoration: none; /* Remove underline */
+  transition: color 0.2s;
+}
+
+.summary-links a:hover {
+  color: var(--abstract-color); /* Change color on hover */
+  text-decoration: underline; /* Optional: underline on hover */
+}
+
+/* Style for the abstract box */
 details summary + p {
   display: block;
   background: var(--background);
@@ -154,8 +180,9 @@ details[open] > summary + p {
   margin-top: 0.5em;
 }
 
+/* Coauthors styling */
 .coauthors {
   margin-top: 0.5em !important;
   margin-bottom: 0.5em !important;
-  font-size:0.9em !important;
+  font-size: 0.9em !important;
 }
