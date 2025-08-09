@@ -59,6 +59,8 @@ jobs:
             hugo-
       - name: Configure Git
         run: git config core.quotepath false
+      - name: Debug baseURL
+        run: echo "Base URL: ${{ steps.pages.outputs.base_url }}"
       - name: Build with Hugo
         run: |
           hugo \
