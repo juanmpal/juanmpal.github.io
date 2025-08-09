@@ -403,8 +403,8 @@ footer a {
 }
 
 .social-icons a svg {
-  height: 35px;
-  width: 35px;
+  height: 30px;
+  width: 30px;
   border: 1px solid var(--content-primary);
   border-radius: 50%; /* Optional: makes the border circular */
   box-sizing: border-box; /* Ensures border is included in size */

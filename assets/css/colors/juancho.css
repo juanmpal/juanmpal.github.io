@@ -3,9 +3,10 @@
     --content-secondary: rgb(117, 117, 117);
     --background: rgb(255, 255, 255);
     --code-background: rgb(249, 249, 249);
-    --code-border: #50785FB3;
-    /* --code-border: rgb(200,50,50);   red. */
-    /* --code-border: #006994;          blue */
+    /* --code-border:  #40604BB3; green */
+    /* --code-border:  #B9AD97; beige */
+    /* --code-border: rgb(200,50,50); red */
+    --code-border: #006994;          blue
     --abstract-color: mix(#000, $gray, 60%);
 }
 
@@ -14,7 +15,8 @@
     --content-secondary: rgb(140, 140, 140);
     --background: #474747;
     --code-background: rgb(30, 30, 30);
-    --code-border: #78C3A1;
-    /* --code-border: #4db3d8;  blue */ 
+    /* --code-border: #78C3A1; green */
+    /* --code-border: rgb(255, 138, 138); red */
+    --code-border: #4db3d8;  blue 
     --abstract-color: mix(#fff, $gray, 50%);
 }

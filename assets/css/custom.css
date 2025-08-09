@@ -165,14 +165,14 @@ details[open] > summary::before {
 details summary + p {
   display: block;
   background: var(--background);
-  border: 1.5px solid var(--code-border);
+  border: 0px solid var(--code-border);
   border-radius: 8px;
   padding: 2px 8px;
   color: var(--abstract-color);
   font-size: 0.95em !important;
   line-height: 1.5 !important;
   text-align: justify !important;
-  max-width: 600px;
+  /* max-width: 600px; */
 }
 
 /* Increase space when details is open */
