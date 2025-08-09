@@ -6,7 +6,7 @@
     /* --code-border:  #40604BB3; green */
     /* --code-border:  #B9AD97; beige */
     /* --code-border: rgb(200,50,50); red */
-    --code-border: #006994;          blue
+    --code-border: #006994;          /* blue*/
     --abstract-color: mix(#000, $gray, 60%);
 }
 
