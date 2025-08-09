@@ -21,7 +21,7 @@ colorPalette = 'juancho'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Welcome!'
+homeIntroTitle = ''
 homeIntroContent = """
 
 I am a PhD candidate at the [**Toulouse School of Economics**](https://www.tse-fr.eu/). 
@@ -30,9 +30,10 @@ I will be on the 2025/2026 academic Job Market.
 
 **Research Fields:** Labor Economics, Industrial Organization, Economics of Education.
 
-Here is a link to my [**CV**](/files/pal-cv.pdf).
-
 Don't hesitate to reach out at [**juan.pal@tse-fr.eu**](mailto:juan.pal@tse-fr.eu) / [**juanmartinpal@gmail.com**](mailto:juanmartinpal@gmail.com) 
+
+[**CV (PDF)**](/files/pal-cv.pdf)
+
 
 """
 
