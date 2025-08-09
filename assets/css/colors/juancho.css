@@ -5,8 +5,8 @@
     --code-background: rgb(249, 249, 249);
     /* --code-border:  #40604BB3; green */
     /* --code-border:  #B9AD97; beige */
-    --code-border: rgb(200,50,50); red
-    /* --code-border: #006994;          blue */
+    /* --code-border: rgb(200,50,50); red */
+    --code-border: #006994;          blue
     --abstract-color: mix(#000, $gray, 60%);
 }
 
@@ -16,7 +16,7 @@
     --background: #474747;
     --code-background: rgb(30, 30, 30);
     /* --code-border: #78C3A1; green */
-    --code-border: rgb(225, 125, 125); red
-    /* --code-border: #4db3d8;  blue  */
+    /* --code-border: rgb(225, 125, 125); red */
+    --code-border: #4db3d8;  blue 
     --abstract-color: mix(#fff, $gray, 50%);
 }
