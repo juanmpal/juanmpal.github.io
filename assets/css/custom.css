@@ -71,7 +71,7 @@ tbody tr {
   height: auto;          /* Maintain aspect ratio */
   object-fit: cover;
   border-radius: 0%;
-  border: 1px solid var(--content-primary);
+  border: 0.5px solid var(--content-primary);
   padding: 1px;
   transition: width 0.2s;
 }
@@ -165,19 +165,19 @@ details[open] > summary::before {
 details summary + p {
   display: block;
   background: var(--background);
-  border: 0px solid var(--code-border);
-  border-radius: 8px;
-  padding: 2px 8px;
+  /* border: 1px solid var(--code-border);
+  border-radius: 8px; */
+  /* padding: 2px 8px; */
   color: var(--abstract-color);
   font-size: 0.95em !important;
-  line-height: 1.5 !important;
+  line-height: 1.6 !important;
   text-align: justify !important;
   /* max-width: 600px; */
 }
 
 /* Increase space when details is open */
 details[open] > summary + p {
-  margin-top: 0.5em;
+  margin-top: 0.75em;
 }
 
 /* Coauthors styling */
