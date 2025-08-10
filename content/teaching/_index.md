@@ -13,6 +13,12 @@ sitemap:
 
 
 <!-- Unified Table for All Courses -->
+<style>
+.responsive-table td[colspan="3"] {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+</style>
 <table class="responsive-table">
   <colgroup>
     <col style="width:35%;">
@@ -22,7 +28,7 @@ sitemap:
   <tbody>
     <!-- Toulouse School of Economics -->
     <tr>
-      <td colspan="3" style="font-weight:bold;">Toulouse School of Economics</td>
+      <td colspan="3">Toulouse School of Economics</td>
     </tr>
     <tr>
       <td><a href="/files/pal-syllabus-tse-applied-econometrics.pdf" target="_blank" rel="noopener noreferrer"><b>Applied Econometrics</b></a></td>
@@ -46,7 +52,7 @@ sitemap:
     </tr>
     <!-- Universidad Nacional de La Plata -->
     <tr>
-      <td colspan="3" style="font-weight:bold;">Universidad Nacional de La Plata</td>
+      <td colspan="3">Universidad Nacional de La Plata</td>
     </tr>
     <tr>
       <td><a href="/files/pal-syllabus-unlp-micro.pdf" target="_blank" rel="noopener noreferrer"><b>Microeconomics</b></a></td>
@@ -65,7 +71,7 @@ sitemap:
     </tr>
     <!-- Universidad de Buenos Aires -->
     <tr>
-      <td colspan="3" style="font-weight:bold;">Universidad de Buenos Aires</td>
+      <td colspan="3">Universidad de Buenos Aires</td>
     </tr>
     <tr>
       <td>Development Economics</td>

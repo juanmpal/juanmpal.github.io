@@ -15,7 +15,7 @@ sitemap:
 ### Working Papers
 
 #### Optimal Policy Design for Teacher Recruitment
-<p class="coauthors">JOB MARKET PAPER</p>
+###### JOB MARKET PAPER
 
 <details>
   <summary>
@@ -33,7 +33,7 @@ sitemap:
 
 
 #### Effort Choices and Funding Instruments in Higher Education
-<p class="coauthors">with Guillem Foucault - draft coming soon</p>
+###### with Guillem Foucault - draft coming soon
 
 <details>
 
@@ -53,7 +53,7 @@ sitemap:
 
 
 #### The Educational PPP: Parents, Peers, Prices
-<p class="coauthors">with Joaquin Varvasino</p>
+###### with Joaquin Varvasino
 
 <details>
 <summary>
@@ -67,10 +67,10 @@ sitemap:
 </details>
 
 #### Enhancing the Effectiveness of Early Warning System in Education
-<p class="coauthors">with Francesco Agostinelli, Ciro Avitabile and Matteo Bobba</p>
+###### with Francesco Agostinelli, Ciro Avitabile and Matteo Bobba
 
 #### Competition in Online Labor Markets
-<p class="coauthors">with Ana Gazmuri, Estrella Gomez-Herrera and Frank Müller-Langer</p>
+###### with Ana Gazmuri, Estrella Gomez-Herrera and Frank Müller-Langer
 
 
 
@@ -78,6 +78,6 @@ sitemap:
 
 
 #### [Brechas de Género: Una Exploración Más Allá de la Media](https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas255.pdf)
-<p class="coauthors">2019, CEDLAS Working Papers N° 255</p>
+###### 2019, CEDLAS Working Papers N° 255
 
 

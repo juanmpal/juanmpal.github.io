@@ -180,9 +180,3 @@ details[open] > summary + p {
   margin-top: 0.75em;
 }
 
-/* Coauthors styling */
-.coauthors {
-  margin-top: 0.5em !important;
-  margin-bottom: 0.5em !important;
-  font-size: 0.9em !important;
-}

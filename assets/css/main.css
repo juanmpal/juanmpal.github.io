@@ -65,10 +65,12 @@ h5 {
   margin-bottom: var(--h5-margin-bottom);
   font-size: var(--h5-font-size);
 }
+
 h6 {
-  font-size: var(--hx-font-size);
-  margin-top: var(--hx-margin-top);
-  margin-bottom: var(--hx-margin-bottom);
+  margin-top: 0.25em !important;
+  margin-bottom: 0.5em !important;
+  font-size: 0.9em !important;
+  font-weight: normal;
 }
 
 .heading {
