@@ -23,36 +23,20 @@ b, strong {
 
 .responsive-table {
   width: 100%;
-  max-width: 500px;
-  border-collapse: collapse;
+  max-width: 100%;
   table-layout: fixed;
-  margin-bottom: 32px;
   border: none !important;
-  margin-left: 0;      /* Ensures left alignment */
-  /* margin-right: auto;  Prevents centering */
-  font-size: 0.9em !important;
+  border-collapse: collapse;
+  font-size: 0.95em !important;
 }
-.responsive-table th, 
-.responsive-table td {
-  border: none !important;
-  padding-right: 5px;
+.responsive-table col {
+    width: auto !important;
 }
 .responsive-table tr > td[colspan="3"] {
   padding-top: 24px;
 }
-
 tbody tr {
   border: none !important;
-}
-
-/* Responsive font size and width for small screens */
-@media (max-width: 500px) {
-  .responsive-table {
-    max-width: 100%;
-  }
-  .responsive-table col {
-    width: auto !important;
-  }
 }
 
 
@@ -83,7 +67,6 @@ tbody tr {
 .home-intro-text h1 {
   margin-top: 0;
 }
-
 
 /* Stack layout on small screens */
 @media (max-width: 600px) {

@@ -22,7 +22,7 @@ sitemap:
     <span class="summary-links">
       <a>Abstract</a>
       <a href="/files/pal-jmp.pdf" target="_blank">Draft</a>
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5373707" target="_blank">SSRN</a>
+      <a href="http://dx.doi.org/10.2139/ssrn.5373707" target="_blank">SSRN</a>
     </span>
   </summary>
   <p>
