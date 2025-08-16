@@ -1,12 +1,14 @@
 :root {
     --content-primary: rgb(36, 36, 36);
     --content-secondary: rgb(117, 117, 117);
-    --background: rgb(255, 255, 255);
+    --background: rgb(253, 253, 253);
+    /* --background: #F4F3EE; Pampas: Light, neutral off-white */
     /* --background: #F7F6F2; muted white */
     --code-background: rgb(249, 249, 249);
     /* --code-border:  #40604BB3; green */
     /* --code-border:  #B9AD97; beige */
     /* --code-border: rgb(200,50,50); red */
+    /* --code-border: #C15F3C; Terracotta: Warm, muted orange */
     --code-border: #006994;          blue
     --abstract-color: mix(#000, $gray, 60%);
 }
