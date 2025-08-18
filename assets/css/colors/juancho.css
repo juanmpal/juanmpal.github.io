@@ -7,7 +7,7 @@
     --code-background: rgb(249, 249, 249);
     /* --code-border:  #40604BB3; green */
     /* --code-border:  #B9AD97; beige */
-    /* --code-border: rgb(200,50,50); red */
+    /* --code-border: rgb(200,50,50); red  */
     /* --code-border: #C15F3C; Terracotta: Warm, muted orange */
     --code-border: #006994;          blue
     --abstract-color: mix(#000, $gray, 60%);
