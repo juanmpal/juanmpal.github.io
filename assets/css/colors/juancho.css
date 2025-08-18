@@ -1,25 +1,25 @@
 :root {
-    --content-primary: rgb(36, 36, 36);
-    --content-secondary: rgb(117, 117, 117);
-    --background: rgb(253, 253, 253);
-    /* --background: #F4F3EE; Pampas: Light, neutral off-white */
-    /* --background: #F7F6F2; muted white */
-    --code-background: rgb(249, 249, 249);
-    /* --code-border:  #40604BB3; green */
-    /* --code-border:  #B9AD97; beige */
-    /* --code-border: rgb(200,50,50); red  */
-    /* --code-border: #C15F3C; Terracotta: Warm, muted orange */
-    --code-border: #006994;          blue
-    --abstract-color: mix(#000, $gray, 60%);
+    --content-primary:  rgb(36, 36, 36);
+    --content-secondary:rgb(117, 117, 117);
+    --background:       rgb(253, 253, 253);
+    --code-background:  rgb(249, 249, 249);
+    --code-border:      #006994; /* blue */
+    /* --abstract-color:  mix(#000, $gray, 60%); */
+    /* --background:      #F4F3EE; Pampas: Light, neutral off-white */
+    /* --background:      #F7F6F2; muted white */
+    /* --code-border:     #40604BB3; green */
+    /* --code-border:     #B9AD97; beige */
+    /* --code-border:     rgb(200,50,50); red  */
+    /* --code-border:     #C15F3C; Terracotta: Warm, muted orange */
 }
 
 .dark {
-    --content-primary: rgb(218, 218, 218);
-    --content-secondary: rgb(140, 140, 140);
-    --background: #474747;
-    --code-background: rgb(30, 30, 30);
-    /* --code-border: #78C3A1; green */
-    /* --code-border: rgb(225, 125, 125); red */
-    --code-border: #4db3d8;  blue 
-    --abstract-color: mix(#fff, $gray, 50%);
+    --content-primary:  rgb(218, 218, 218);
+    --content-secondary:rgb(140, 140, 140);
+    --background:       #474747;
+    --code-background:  rgb(30, 30, 30);
+    --code-border:      #4db3d8; blue 
+    /* --abstract-color:  mix(#fff, $gray, 50%); */
+    /* --code-border:     #78C3A1; green */
+    /* --code-border:     rgb(225, 125, 125); red */
 }
