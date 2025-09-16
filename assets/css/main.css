@@ -30,7 +30,7 @@ body.home .content {
 
 @media (max-width: 700px) {
   body.home .content {
-    max-width: 90% !important; full width on small screens
+    max-width: 90% !important; /* full width on small screens */
   }
 }
 
