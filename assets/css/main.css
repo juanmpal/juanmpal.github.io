@@ -28,6 +28,12 @@ body.home .content {
   max-width: 900px !important; /* wider for homepage */
 }
 
+@media (max-width: 700px) {
+  body.home .content {
+    padding-left : 3rem !important;
+    /* max-width: 80% !important; full width on small screens */
+  }
+}
 
 
 h1 {
