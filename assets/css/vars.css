@@ -1,4 +1,5 @@
 :root {
+    
     --main-width: 700px;
     --main-padding: 1.4em;
     --main-padding-bottom: 3rem;
@@ -37,7 +38,7 @@
     --h4-font-size: 1.0em;
     --h5-font-size: 1.0em;
     --hx-font-size: 1.3em;
-    --p-font-size: 1em;
+    --p-font-size: 0.95em;
     --p-line-height: 1.5em;
     --caption-font-size: .8em;
 
