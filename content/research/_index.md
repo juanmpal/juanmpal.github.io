@@ -77,7 +77,7 @@ sitemap:
 #### Enhancing the Effectiveness of Early Warning System in Education
 ###### with Francesco Agostinelli, Ciro Avitabile and Matteo Bobba
 
-#### Competition in Online Labor Markets
+#### Regulating Competition in Online Labor Markets
 ###### with Ana Gazmuri, Estrella Gomez-Herrera and Frank Müller-Langer
 
 
