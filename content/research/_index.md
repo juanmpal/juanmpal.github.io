@@ -14,7 +14,7 @@ sitemap:
 
 ### Working Papers
 
-#### Optimal Policy Design for Teacher Recruitment
+#### Education Policy and the Quality of Public Servants
 ###### JOB MARKET PAPER
 
 <details>
@@ -26,7 +26,7 @@ sitemap:
     </span>
   </summary>
   <p>
-    This paper studies the design of higher education policies targeted at improving teacher recruitment. I leverage the introduction of a policy in Chile that aimed to raise teacher quality by combining financial incentives and admission standards. Exploiting the sharp assignment rule I estimate that, at the threshold, enrollment of high performing students at teacher colleges increased by 42%, with low-income students coming disproportionately from non-enrollment. The policy generated a positive composition effect of 0.25SD in the scores at the college entry exam, which led to an increase in 0.11SD in Teacher Value Added and 0.12SD in Teaching Skills. I develop a demand and supply model of higher education that embeds a novel method for solving discrete-continuous games in large markets. Counterfactual policies lead to increases of up to 6.6% in the test scores of students enrolled at teacher colleges, and up to 27% in Teacher Value Added. Targeting the policy to low-income students yields further gains in Teacher Value Added at no additional cost.
+    This paper studies the design of higher education policies targeted at improving the recruitment of public servants. I leverage the introduction of a policy in Chile that aimed to raise teacher quality by combining financial incentives and admission standards. Exploiting the sharp assignment rule I estimate that, at the threshold, enrollment of high performing students at teacher colleges increased by 42%. For low-income students, two thirds of the increase is due to switching away from non-enrollment. The policy generated a positive composition effect of 0.25SD in the scores at the college entry exam, which led to an increase in 0.11SD in Teacher Value Added and 0.12SD in teaching skills. I embed the reduced-form results into a demand and supply model of higher education that incorporates a novel method for solving discrete-continuous games in large markets. Counterfactual policies lead to increases of up to 6.6% in the test scores of students enrolled at teacher colleges, and up to 20% in Teacher Value Added. Targeting the policy to low-income students yields further gains in Teacher Value Added at no additional cost. An alternative policy would need to increase by 35% the expected wages of graduates from teaching degrees to achieve similar gains.
   </p>
 </details>
 
