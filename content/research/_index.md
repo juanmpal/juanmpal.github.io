@@ -12,10 +12,15 @@ sitemap:
 
 
 
-### Working Papers
+### Job Market Paper
 
 #### Education Policy and the Quality of Public Servants
-###### JOB MARKET PAPER
+
+<div style="height: 2px;"></div>
+
+###### <span style="display: block; margin-left: 15px; line-height: 1.5;"> **Presentations:** 2024 IAAE Annual Conference (Thessaloniki), 2025 Penn Empirical Micro Lunch, 2025 TSE Economics of Education Workshop, 2025 HEC Economics PhD Conference, 2025 EEA Congress (Bordeaux), 2025 SAEe (Barcelona, upcoming), 2025 EWMES (Nicosia, upcoming)</span>
+
+<div style="height: 5px;"></div>
 
 <details>
   <summary>
@@ -30,6 +35,9 @@ sitemap:
   </p>
 </details>
 
+
+
+### Working Papers
 
 
 #### Effort Choices and Funding Instruments in Higher Education
