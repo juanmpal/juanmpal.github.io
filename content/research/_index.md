@@ -44,13 +44,14 @@ sitemap:
 
 
 #### Effort Choices and Funding Instruments in Higher Education
-###### with Guillem Foucault - draft coming soon
+###### with Guillem Foucault
 
 <details>
 
 <summary>
     <span class="summary-links">
       <a>Abstract</a>
+      <a href="/files/pal-foucault-effort.pdf" target="_blank">Draft</a>
     </span>
 </summary>
 
