@@ -9,7 +9,7 @@ other changes in the main body of the file
 
 
 .active-section {
-    color: var(--code-border); /* Replace with your desired color */
+  color: var(--code-border); /* Replace with your desired color */
 }
 
 .highlighted {
@@ -50,12 +50,12 @@ tbody tr {
 
 .home-intro-img img {
   width: 30vw;           /* Fluid width: 30% of viewport width */
-  max-width: 300px;      /* Never larger than 300px */
-  min-width: 150px;      /* Never smaller than 100px */
+  max-width: 350px;      /* Never larger than 450px */
+  min-width: 150px;      /* Never smaller than 150px */
   height: auto;          /* Maintain aspect ratio */
   object-fit: cover;
   border-radius: 0%;
-  border: 0.5px solid var(--content-primary);
+  border: 0.0px solid var(--content-primary);
   padding: 1px;
   transition: width 0.2s;
 }
@@ -93,7 +93,7 @@ tbody tr {
     height: auto;
     object-fit: cover;
     border-radius: 0%;
-    border: 0.5px solid var(--content-primary);
+    border: 0px solid var(--content-primary);
     padding: 1px;
     transition: width 0.2s;
   }

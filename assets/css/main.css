@@ -25,7 +25,7 @@ body {
 
 
 body.home .content {
-  max-width: 900px !important; /* wider for homepage */
+  max-width: 1000px !important; /* wider for homepage */
 }
 
 @media (max-width: 700px) {
