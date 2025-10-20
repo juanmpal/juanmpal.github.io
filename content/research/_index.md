@@ -90,7 +90,7 @@ sitemap:
 ###### with [Francesco Agostinelli](https://www.francesco-agostinelli.com), [Ciro Avitabile](https://sites.google.com/site/avitabileciro) and [Matteo Bobba](https://matteobobba.github.io)
 
 #### Regulating Competition in Online Labor Markets
-###### with [Ana Gazmuri](https://sites.google.com/site/amgazmuri), [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera) [Frank Müller-Langer](https://www.unibw.de/bw/professuren/frank-mueller-langer/frank-mueller-langer)
+###### with [Ana Gazmuri](https://sites.google.com/site/amgazmuri), [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera) and [Frank Müller-Langer](https://www.unibw.de/bw/professuren/frank-mueller-langer/frank-mueller-langer)
 
 
 
