@@ -44,45 +44,53 @@ sitemap:
 
 
 #### Effort Choices and Funding Instruments in Higher Education
-###### with Guillem Foucault
+###### with [Guillem Foucault](https://gfill.github.io/)
+
+<div style="height: 3px;"></div>
 
 <details>
-
-<summary>
-    <span class="summary-links">
-      <a>Abstract</a>
-      <a href="/files/pal-foucault-effort.pdf" target="_blank">Draft</a>
-    </span>
-</summary>
-
-<p> This paper examines the effects of Free College policies on student enrollment and academic performance, with a focus on the 2016 Chilean reform that granted tuition-free higher education to students from the lowest five income deciles. Using a difference-in-differences approach, we find that Free College increased enrollment and persistence in higher education on the eligible but had modest effects on graduation and dropout rates. To disentangle the role of student effort from selection effects, we develop a structural model in which students choose effort levels in response to financial incentives. Our results highlight that Free College expanded access, in particular for low-achieving students. Despite the removal of academic progress requirements, we found no evidence of weakening performance. </p>
-
+  <summary>
+      <span class="summary-links">
+        <a>Abstract</a>
+        <a href="/files/pal-foucault-effort.pdf" target="_blank">Draft</a>
+      </span>
+  </summary>
+  <p>
+    This paper examines the effects of Free College policies on student enrollment and academic performance, with a focus on the 2016 Chilean reform that granted tuition-free higher education to students from the lowest five income deciles. Using a difference-in-differences approach, we find that Free College increased enrollment and persistence in higher education on the eligible but had modest effects on graduation and dropout rates. To disentangle the role of student effort from selection effects, we develop a structural model in which students choose effort levels in response to financial incentives. Our results highlight that Free College expanded access, in particular for low-achieving students. Despite the removal of academic progress requirements, we found no evidence of weakening performance.
+  </p>
 </details>
+
+
+
+#### The Educational PPP: Parents, Peers, Prices
+###### with [Joaquin Varvasino](https://www.upf.edu/es/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/varvasino-joaquin/maximized)
+
+<div style="height: 3px;"></div>
+
+<details>
+  <summary>
+      <span class="summary-links">
+        <a>Abstract</a>
+        <a href="/files/pal-varvasino-ppp.pdf" target="_blank">Draft</a>
+      </span>
+  </summary>
+  <p>
+    This paper studies the roles of financial constraints and information frictions on enrollment and progression in higher education. We use Chilean administrative data, allowing us to link students to their parents and their high school peers. Our empirical strategy exploits the massive entry of private universities during the 1980s to instrument parental educational achievement, panel data methods to estimate peer influence, and the staggered rollout of Free College from 2016 that generated exogenous variation to out-of-pocket fees. Results show that subsidies increase university access, peers enhance enrollment and match quality, and parental exposure to university causally affects children's university enrollment. We use these findings to inform a dynamic structural model that quantifies these mechanisms and evaluates equity-oriented education policies.
+  </p>
+</details>
+
+
 
 
 
 ### Work in Progress
 
 
-#### The Educational PPP: Parents, Peers, Prices
-###### with Joaquin Varvasino
-
-<details>
-<summary>
-    <span class="summary-links">
-      <a>Abstract</a>
-    </span>
-</summary>
-
-<p> This paper studies the roles of financial constraints and information frictions in enrollment and progression in higher education. Our results show that subsidies increase university access, peers enhance enrollment and match quality, and parental exposure to university causally affects children’s university enrollment. We build a dynamic structural model that quantifies these mechanisms and evaluates equity-oriented education policies.</p>
-
-</details>
-
 #### Enhancing the Effectiveness of Early Warning System in Education
-###### with Francesco Agostinelli, Ciro Avitabile and Matteo Bobba
+###### with [Francesco Agostinelli](https://www.francesco-agostinelli.com), [Ciro Avitabile](https://sites.google.com/site/avitabileciro) and [Matteo Bobba](https://matteobobba.github.io)
 
 #### Regulating Competition in Online Labor Markets
-###### with Ana Gazmuri, Estrella Gomez-Herrera and Frank Müller-Langer
+###### with [Ana Gazmuri](https://sites.google.com/site/amgazmuri), [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera) [Frank Müller-Langer](https://www.unibw.de/bw/professuren/frank-mueller-langer/frank-mueller-langer)
 
 
 
