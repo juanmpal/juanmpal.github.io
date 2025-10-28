@@ -29,7 +29,7 @@ sitemap:
   <summary>
     <span class="summary-links">
       <a>Abstract</a>
-      <a href="/files/pal-jmp.pdf" target="_blank">Draft</a>
+      <a href="/files/pal-jmp.pdf" target="_blank">Paper</a>
       <a href="http://dx.doi.org/10.2139/ssrn.5373707" target="_blank">SSRN</a>
     </span>
   </summary>
@@ -52,7 +52,7 @@ sitemap:
   <summary>
       <span class="summary-links">
         <a>Abstract</a>
-        <a href="/files/pal-foucault-effort.pdf" target="_blank">Draft</a>
+        <a href="/files/pal-foucault-effort.pdf" target="_blank">Paper</a>
       </span>
   </summary>
   <p>
@@ -71,7 +71,7 @@ sitemap:
   <summary>
       <span class="summary-links">
         <a>Abstract</a>
-        <a href="/files/pal-varvasino-ppp.pdf" target="_blank">Draft</a>
+        <a href="/files/pal-varvasino-ppp.pdf" target="_blank">Paper</a>
       </span>
   </summary>
   <p>
