@@ -16,6 +16,10 @@ other changes in the main body of the file
   color: var(--code-border);
 }
 
+.highlighted-alt {
+  color: var(--code-alt);
+}
+
 b, strong {
   color: var(--code-border);
 }
