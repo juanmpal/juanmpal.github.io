@@ -86,11 +86,58 @@ sitemap:
 ### Work in Progress
 
 
+
+#### General Equilibrium Effects of Large-Scale Education Expansions
+###### with [Matteo Bobba](https://matteobobba.github.io), [Olivier De Groote](https://sites.google.com/view/olivierdegroote), [Guillem Foucault](https://gfill.github.io/) and [Ana Gazmuri](https://sites.google.com/site/amgazmuri)
+
+<div style="height: 3px;"></div>
+
+<details>
+  <summary>
+      <span class="summary-links">
+        <a>Abstract</a>
+      </span>
+  </summary>
+  <p>
+    While small-scale educational interventions provide valuable insights into effective investments, large-scale education programs may generate substantial general equilibrium (GE) effects that alter their ultimate impact on welfare and inequality. This paper analyzes the consequences of a large-scale college enrollment expansion in Chile, explicitly accounting for GE effects in both education and labor markets, to understand how firms adjust their demand for skill-biased labor in response to increased college graduate supply. The model enables us to decompose observed wage changes into individual returns to education and GE effects, revealing how firm responses shape education decisions and ultimately affect the distribution of earnings. By incorporating both household education choices and firm production decisions, this framework provides a comprehensive assessment of how large-scale education expansions affect welfare and distributional outcomes. 
+  </p>
+</details>
+
+
+
 #### Enhancing the Effectiveness of Early Warning System in Education
 ###### with [Francesco Agostinelli](https://www.francesco-agostinelli.com), [Ciro Avitabile](https://sites.google.com/site/avitabileciro) and [Matteo Bobba](https://matteobobba.github.io)
 
-#### Regulating Competition in Online Labor Markets
+<div style="height: 3px;"></div>
+
+<details>
+  <summary>
+      <span class="summary-links">
+        <a>Abstract</a>
+      </span>
+  </summary>
+  <p>
+    This project develops scalable, low-cost strategies to enhance early warning systems aimed at preventing school dropout in low- and middle-income countries. Despite the growing adoption of data-driven platforms that predict students' dropout risk and provide targeted guidance to school staff, real-world impact remains limited by low user engagement and minimal improvements in outcomes. We propose an integrated approach that strengthens both the targeting of at-risk students and the engagement of key stakeholders. By systematically combining school principals’ expert beliefs about students with machine learning predictions, we harness local knowledge to improve the accuracy of dropout risk assessments. Simultaneously, we foster parental involvement by inviting families of at-risk students to structured meetings with school leadership, sharing clear risk information and practical guidance to support continued enrollment. At-risk students are also offered tailored tutoring in foundational skills by trained educators.
+  </p>
+</details>
+
+
+
+#### Equilibrium Effects of Information Interventions in Online Labor Markets
 ###### with [Ana Gazmuri](https://sites.google.com/site/amgazmuri), [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera) and [Frank Müller-Langer](https://www.unibw.de/bw/professuren/frank-mueller-langer/frank-mueller-langer)
+
+<div style="height: 3px;"></div>
+
+<details>
+  <summary>
+      <span class="summary-links">
+        <a>Abstract</a>
+      </span>
+  </summary>
+  <p>
+    We study the impact of a policy change in an online labor market requiring disclosure of projects’ experience requirements, which prompted roughly half of employers to stop revealing their budgets. Exploiting detailed data from the universe of auctions in PeoplePerHour—one of the largest online labor markets—we document that employers who conceal budgets after the policy systematically pay higher winning fees across all project types. Bid variance increases, indicating greater strategic uncertainty for workers. Worker win probabilities remain largely unaffected by the disclosure change, though we observe stronger price-based selection for low-value projects and more pronounced firm advantage in mid-value segments. To interpret these empirical patterns and evaluate counterfactual information policies, we build a structural beauty-contest auction model. Our framework explicitly captures the strategic interplay between employers and heterogeneous workers under incomplete information, enabling us to simulate the welfare and market impacts of alternative disclosure policies. The results highlight the multifaceted consequences of market design for both sides of online labor platforms, especially when buyers’ strategic concealment of information is endogenous.
+  </p>
+</details>
 
 
 
