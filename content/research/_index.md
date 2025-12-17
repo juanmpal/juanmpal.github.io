@@ -18,7 +18,7 @@ sitemap:
 
 <div style="height: 2px;"></div>
 
-###### <span style="display: block; margin-left: 15px; line-height: 1.5;"> <span style="font-weight: bold" class="highlighted-alt">Presentations:</span> 2024 IAAE Annual Conference (Thessaloniki), 2025 Penn Empirical Micro Lunch, 2025 TSE Economics of Education Workshop, 2025 HEC Economics PhD Conference, 2025 EEA Congress (Bordeaux), 2025 European Winter Meeting of the Econometric Society (Nicosia, <i>upcoming</i>), 2025 Econometric Society Dynamic Structural Econometrics Conference (Hong Kong, <i>upcoming</i>), 2025 SAEe (Barcelona, <i>upcoming</i>)</span>
+###### <span style="display: block; margin-left: 15px; line-height: 1.5;"> <span style="font-weight: bold" class="highlighted-alt">Presentations:</span> 2024 IAAE Annual Conference (Thessaloniki), 2025 Penn Empirical Micro Lunch, 2025 TSE Economics of Education Workshop, 2025 HEC Economics PhD Conference, 2025 EEA Congress (Bordeaux), 2025 European Winter Meeting of the Econometric Society (Nicosia), 2025 Econometric Society Dynamic Structural Econometrics Conference (Hong Kong), 2025 SAEe (Barcelona)</span>
 
 <div style="height: 5px;"></div>
 
