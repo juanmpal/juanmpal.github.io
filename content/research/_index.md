@@ -12,21 +12,18 @@ sitemap:
 
 
 
-### Job Market Paper
+### Working Papers
 
-#### Education Policy and the Quality of Public Servants
 
-<div style="height: 2px;"></div>
+#### [Education Policy and the Quality of Public Servants](https://juanpal.com/files/pal-jmp.pdf)
+###### Last update: November 2025
 
-###### <span style="display: block; margin-left: 15px; line-height: 1.5;"> <span style="font-weight: bold" class="highlighted-alt">Presentations:</span> 2024 IAAE Annual Conference (Thessaloniki), 2025 Penn Empirical Micro Lunch, 2025 TSE Economics of Education Workshop, 2025 HEC Economics PhD Conference, 2025 EEA Congress (Bordeaux), 2025 European Winter Meeting of the Econometric Society (Nicosia), 2025 Econometric Society Dynamic Structural Econometrics Conference (Hong Kong), 2025 SAEe (Barcelona)</span>
-
-<div style="height: 5px;"></div>
+<div style="height: 3px;"></div>
 
 <details>
   <summary>
     <span class="summary-links">
       <a>Abstract</a>
-      <a href="/files/pal-jmp.pdf" target="_blank">Paper</a>
       <a href="http://dx.doi.org/10.2139/ssrn.5373707" target="_blank">SSRN</a>
     </span>
   </summary>
@@ -36,12 +33,9 @@ sitemap:
 </details>
 
 
-
-### Working Papers
-
-
-#### Effort Choices and Funding Instruments in Higher Education
-###### with [Guillem Foucault](https://gfill.github.io/)
+#### [Effort Choices and Funding Instruments in Higher Education](https://juanpal.com/files/pal-foucault-effort.pdf)
+###### with [Guillem Foucault](https://gfill.github.io/).
+###### Last update: January 2026
 
 <div style="height: 3px;"></div>
 
@@ -49,7 +43,6 @@ sitemap:
   <summary>
       <span class="summary-links">
         <a>Abstract</a>
-        <a href="/files/pal-foucault-effort.pdf" target="_blank">Paper</a>
       </span>
   </summary>
   <p>
@@ -59,8 +52,9 @@ sitemap:
 
 
 
-#### The Educational PPP: Parents, Peers, Prices
-###### with [Joaquin Varvasino](https://www.upf.edu/es/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/varvasino-joaquin/maximized)
+#### [The Educational PPP: Parents, Peers, Prices](https://juanpal.com/files/pal-varvasino-ppp.pdf)
+###### with [Joaquin Varvasino](https://www.upf.edu/es/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/varvasino-joaquin/maximized).
+###### Last update: July 2025
 
 <div style="height: 3px;"></div>
 
@@ -68,7 +62,6 @@ sitemap:
   <summary>
       <span class="summary-links">
         <a>Abstract</a>
-        <a href="/files/pal-varvasino-ppp.pdf" target="_blank">Paper</a>
       </span>
   </summary>
   <p>
