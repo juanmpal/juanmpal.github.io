@@ -34,7 +34,7 @@ sitemap:
 
 
 #### [Effort Choices and Funding Instruments in Higher Education](https://juanpal.com/files/pal-foucault-effort.pdf)
-###### with [Guillem Foucault](https://gfill.github.io/).
+###### with [Guillem Foucault](https://gfill.github.io/)
 ###### Last update: January 2026
 
 <div style="height: 3px;"></div>
@@ -53,7 +53,7 @@ sitemap:
 
 
 #### [The Educational PPP: Parents, Peers, Prices](https://juanpal.com/files/pal-varvasino-ppp.pdf)
-###### with [Joaquin Varvasino](https://www.upf.edu/es/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/varvasino-joaquin/maximized).
+###### with [Joaquin Varvasino](https://www.upf.edu/es/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/varvasino-joaquin/maximized)
 ###### Last update: July 2025
 
 <div style="height: 3px;"></div>
