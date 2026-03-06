@@ -181,7 +181,7 @@ details[open] > summary::before {
 }
 
 .summary-links a:hover {
-  color: var(--abstract-color); /* Change color on hover */
+  color: var(--code-border); /* Change color on hover */
   text-decoration: underline; /* Optional: underline on hover */
 }
 
@@ -192,7 +192,7 @@ details summary + p {
   /* border: 1px solid var(--code-border);
   border-radius: 8px; */
   /* padding: 2px 8px; */
-  color: var(--abstract-color);
+  /* color: var(--code-border); */
   font-size: 0.95em !important;
   line-height: 1.6 !important;
   text-align: justify !important;

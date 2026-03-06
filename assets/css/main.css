@@ -51,8 +51,8 @@ h3 {
   margin-top: var(--h3-margin-top);
   margin-bottom: var(--h3-margin-bottom);
   font-size: var(--h3-font-size);
-  color: var(--code-border);
-  border-bottom: 2px solid var(--code-border); /* Adjust thickness and color as needed */
+  color: var(--content-primary);
+  border-bottom: 1px solid var(--content-primary); /* Adjust thickness and color as needed */
   padding-bottom: 0.2em; /* Optional: adds space between text and underline */
 }
 
@@ -62,7 +62,7 @@ h4 {
   font-size: var(--h4-font-size);
 }
 h4 a {
-  color: var(--content-primary);
+  /* color: var(--content-primary); */
 }
 
 h5 {
