@@ -15,8 +15,8 @@ sitemap:
 ### Working Papers
 
 
-#### [Education Policy and the Quality of Public Servants](https://juanpal.com/files/pal-jmp.pdf)
-##### Last update: November 2025
+#### [Education Policy and the Quality of Public Servants](https://juanpal.com/files/pal-bvp.pdf)
+##### Last update: March 2026
 
 <div style="height: 3px;"></div>
 
