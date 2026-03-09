@@ -24,8 +24,10 @@
     --h3-margin-bottom: 1rem;
     --h4-margin-top: 1.5rem;
     --h4-margin-bottom: 0.25rem;
-    --h5-margin-top: 1.5rem;
-    --h5-margin-bottom: 0rem;
+    --h5-margin-top: 0.25rem;
+    --h5-margin-bottom: 0.5rem;
+    --h6-margin-top: 0.25rem;
+    --h6-margin-bottom: 0.5rem;
     --hx-margin-top: 1.5rem;
     --hx-margin-bottom: 1rem;
     --p-margin-top: 1rem;
@@ -35,8 +37,9 @@
     --h1-font-size: 2em;
     --h2-font-size: 1.8em;
     --h3-font-size: 1.2em;
-    --h4-font-size: 0.95em;
-    --h5-font-size: 0.9em;
+    --h4-font-size: 0.9em;
+    --h5-font-size: 0.85em;
+    --h6-font-size: 0.875em;
     --hx-font-size: 1.3em;
     --p-font-size: 0.95em;
     --p-line-height: 1.5em;

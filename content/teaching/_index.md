@@ -15,7 +15,7 @@ sitemap:
 <!-- Unified Table for All Courses -->
 <style>
 .responsive-table td[colspan="3"] {
-  font-size: 1.2em;
+  font-size: var(--h3-font-size);
   font-weight: bold;
 }
 </style>

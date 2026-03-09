@@ -61,20 +61,21 @@ h4 {
   margin-bottom: var(--h4-margin-bottom);
   font-size: var(--h4-font-size);
 }
-h4 a {
-  /* color: var(--content-primary); */
-}
 
 h5 {
   margin-top: var(--h5-margin-top);
   margin-bottom: var(--h5-margin-bottom);
   font-size: var(--h5-font-size);
+  font-weight: normal;
+}
+h5 a {
+  color: var(--content-primary);
 }
 
 h6 {
-  margin-top: 0.25em !important;
-  margin-bottom: 0.5em !important;
-  font-size: 0.875em !important;
+  margin-top: var(--h6-margin-top);
+  margin-bottom: var(--h6-margin-bottom);
+  font-size: var(--h6-font-size);
   font-weight: normal;
 }
 h6 a {

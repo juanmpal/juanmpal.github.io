@@ -31,7 +31,7 @@ b, strong {
   table-layout: fixed;
   border: none !important;
   border-collapse: collapse;
-  font-size: 0.95em !important;
+  font-size: var(--h4-font-size);
 }
 .responsive-table col {
     width: auto !important;

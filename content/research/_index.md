@@ -15,8 +15,8 @@ sitemap:
 ### Working Papers
 
 
-#### [Education Policy and the Quality of Public Servants](https://juanpal.com/files/pal-bvp.pdf)
-###### Last update: March 2026
+#### [Education Policy and the Quality of Public Servants](https://juanpal.com/files/pal-jmp.pdf)
+##### Last update: November 2025
 
 <div style="height: 3px;"></div>
 
@@ -34,8 +34,8 @@ sitemap:
 
 
 #### [Effort Choices and Funding Instruments in Higher Education](https://juanpal.com/files/pal-foucault-effort.pdf)
-###### with [Guillem Foucault](https://gfill.github.io/)
-###### Last update: January 2026
+##### with [Guillem Foucault](https://gfill.github.io/)
+##### Last update: January 2026
 
 <div style="height: 3px;"></div>
 
@@ -53,8 +53,8 @@ sitemap:
 
 
 #### [The Educational PPP: Parents, Peers, Prices](https://juanpal.com/files/pal-varvasino-ppp.pdf)
-###### with [Joaquin Varvasino](https://www.upf.edu/es/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/varvasino-joaquin/maximized)
-###### Last update: July 2025
+##### with [Joaquin Varvasino](https://www.upf.edu/es/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/varvasino-joaquin/maximized)
+##### Last update: July 2025
 
 <div style="height: 3px;"></div>
 
@@ -78,7 +78,7 @@ sitemap:
 
 
 #### General Equilibrium Effects of Large-Scale Education Expansions
-###### with [Matteo Bobba](https://matteobobba.github.io), [Olivier De Groote](https://sites.google.com/view/olivierdegroote), [Guillem Foucault](https://gfill.github.io/) and [Ana Gazmuri](https://sites.google.com/site/amgazmuri)
+##### with [Matteo Bobba](https://matteobobba.github.io), [Olivier De Groote](https://sites.google.com/view/olivierdegroote), [Guillem Foucault](https://gfill.github.io/) and [Ana Gazmuri](https://sites.google.com/site/amgazmuri)
 
 <div style="height: 3px;"></div>
 
@@ -96,7 +96,7 @@ sitemap:
 
 
 #### Enhancing the Effectiveness of Early Warning System in Education
-###### with [Francesco Agostinelli](https://www.francesco-agostinelli.com), [Ciro Avitabile](https://sites.google.com/site/avitabileciro) and [Matteo Bobba](https://matteobobba.github.io)
+##### with [Francesco Agostinelli](https://www.francesco-agostinelli.com), [Ciro Avitabile](https://sites.google.com/site/avitabileciro) and [Matteo Bobba](https://matteobobba.github.io)
 
 <div style="height: 3px;"></div>
 
@@ -114,7 +114,7 @@ sitemap:
 
 
 #### Equilibrium Effects of Information Interventions in Online Labor Markets
-###### with [Ana Gazmuri](https://sites.google.com/site/amgazmuri), [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera) and [Frank Müller-Langer](https://www.unibw.de/bw/professuren/frank-mueller-langer/frank-mueller-langer)
+##### with [Ana Gazmuri](https://sites.google.com/site/amgazmuri), [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera) and [Frank Müller-Langer](https://www.unibw.de/bw/professuren/frank-mueller-langer/frank-mueller-langer)
 
 <div style="height: 3px;"></div>
 
@@ -135,6 +135,6 @@ sitemap:
 
 
 #### [Brechas de Género: Una Exploración Más Allá de la Media](https://www.cedlas.econo.unlp.edu.ar/wp/wp-content/uploads/doc_cedlas255.pdf)
-###### 2019, CEDLAS Working Papers N° 255
+##### 2019, CEDLAS Working Papers N° 255
 
 
