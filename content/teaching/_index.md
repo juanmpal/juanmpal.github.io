@@ -13,12 +13,6 @@ sitemap:
 
 
 <!-- Unified Table for All Courses -->
-<style>
-.responsive-table td[colspan="3"] {
-  font-size: var(--h3-font-size);
-  font-weight: bold;
-}
-</style>
 <table class="responsive-table">
   <colgroup>
     <col style="width:35%;">
@@ -26,10 +20,7 @@ sitemap:
     <col style="width:30%;">
   </colgroup>
   <tbody>
-    <!-- Toulouse School of Economics -->
-    <tr>
-      <td colspan="3">Toulouse School of Economics</td>
-    </tr>
+    <tr><th colspan="3" scope="rowgroup">Toulouse School of Economics</th></tr>
     <tr>
       <td><a href="/files/pal-syllabus-tse-applied-econometrics.pdf" target="_blank" rel="noopener noreferrer"><b>Applied Econometrics</b></a></td>
       <td>Graduate</td>
@@ -50,10 +41,9 @@ sitemap:
       <td>Undergraduate</td>
       <td>2021-2023</td>
     </tr>
-    <!-- Universidad Nacional de La Plata -->
-    <tr>
-      <td colspan="3">Universidad Nacional de La Plata</td>
-    </tr>
+  </tbody>
+  <tbody>
+    <tr><th colspan="3" scope="rowgroup">Universidad Nacional de La Plata</th></tr>
     <tr>
       <td><a href="/files/pal-syllabus-unlp-micro.pdf" target="_blank" rel="noopener noreferrer"><b>Microeconomics</b></a></td>
       <td>Graduate</td>
@@ -69,10 +59,9 @@ sitemap:
       <td>Undergraduate</td>
       <td>2019</td>
     </tr>
-    <!-- Universidad de Buenos Aires -->
-    <tr>
-      <td colspan="3">Universidad de Buenos Aires</td>
-    </tr>
+  </tbody>
+  <tbody>
+    <tr><th colspan="3" scope="rowgroup">Universidad de Buenos Aires</th></tr>
     <tr>
       <td>Development Economics</td>
       <td>Undergraduate</td>

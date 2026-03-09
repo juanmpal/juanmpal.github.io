@@ -36,9 +36,15 @@ b, strong {
 .responsive-table col {
     width: auto !important;
 }
-.responsive-table tr > td[colspan="3"] {
+.responsive-table tbody th[scope="rowgroup"] {
   padding-top: 24px;
+  font-size: var(--h3-font-size);
+  font-weight: bold;
+  color: var(--content-primary);
+  text-align: left;
+  background: none;
 }
+
 tbody tr {
   border: none !important;
 }
@@ -167,22 +173,22 @@ details[open] > summary::before {
   display: flex;
   align-items: baseline; /* Align links to the text baseline */
   gap: 1em; /* Space between links */
-  font-size: 1em; /* Match summary font size */
+  font-size: var(--h4-font-size); /* Match summary font size */
   line-height: 1; /* Match summary line height */
   /* margin-left: 0.5em; Slight offset to balance spacing */
-  font-weight: bold;
+  font-weight: normal;
 }
 
 /* Style for the links */
 .summary-links a {
-  color: var(--content-primary); /* Match the Abstract color */
+  color: var(--content-primary);
   text-decoration: none; /* Remove underline */
   transition: color 0.2s;
 }
 
 .summary-links a:hover {
-  color: var(--content-primary); /* Change color on hover */
   text-decoration: underline; /* Optional: underline on hover */
+  font-weight: bold;
 }
 
 /* Style for the abstract box */
