@@ -131,7 +131,7 @@ tbody tr {
 summary {
   font-weight: bold;
   font-size: 0.9em !important;
-  color: var(--code-border);
+  color: var(--content-primary);
   line-height: 1; /* Normal line height for the summary text */
   margin-top: 0;
   margin-bottom: 0em;
@@ -175,13 +175,13 @@ details[open] > summary::before {
 
 /* Style for the links */
 .summary-links a {
-  color: var(--code-border); /* Match the Abstract color */
+  color: var(--content-primary); /* Match the Abstract color */
   text-decoration: none; /* Remove underline */
   transition: color 0.2s;
 }
 
 .summary-links a:hover {
-  color: var(--code-border); /* Change color on hover */
+  color: var(--content-primary); /* Change color on hover */
   text-decoration: underline; /* Optional: underline on hover */
 }
 
