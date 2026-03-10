@@ -16,15 +16,13 @@ sitemap:
 
 
 #### [Education Policy and the Quality of Public Servants](https://juanpal.com/files/pal-bvp.pdf)
-##### Last update: March 2026
-
-<div style="height: 3px;"></div>
 
 <details>
   <summary>
     <span class="summary-links">
       <a>Abstract</a>
       <a href="http://dx.doi.org/10.2139/ssrn.5373707" target="_blank">SSRN</a>
+      <a class="last-update">Last update: March 2026</a>
     </span>
   </summary>
   <p>
@@ -35,14 +33,12 @@ sitemap:
 
 #### [Effort Choices and Funding Instruments in Higher Education](https://juanpal.com/files/pal-foucault-effort.pdf)
 ##### with [Guillem Foucault](https://gfill.github.io/)
-##### Last update: January 2026
-
-<div style="height: 3px;"></div>
 
 <details>
   <summary>
       <span class="summary-links">
         <a>Abstract</a>
+        <a class="last-update">Last update: January 2026</a>
       </span>
   </summary>
   <p>
@@ -54,14 +50,12 @@ sitemap:
 
 #### [The Educational PPP: Parents, Peers, Prices](https://juanpal.com/files/pal-varvasino-ppp.pdf)
 ##### with [Joaquin Varvasino](https://www.upf.edu/es/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/varvasino-joaquin/maximized)
-##### Last update: July 2025
-
-<div style="height: 3px;"></div>
 
 <details>
   <summary>
       <span class="summary-links">
         <a>Abstract</a>
+        <a class="last-update">Last update: July 2025</a>
       </span>
   </summary>
   <p>
@@ -80,8 +74,6 @@ sitemap:
 #### General Equilibrium Effects of Large-Scale Education Expansions
 ##### with [Matteo Bobba](https://matteobobba.github.io), [Olivier De Groote](https://sites.google.com/view/olivierdegroote), [Guillem Foucault](https://gfill.github.io/) and [Ana Gazmuri](https://sites.google.com/site/amgazmuri)
 
-<div style="height: 3px;"></div>
-
 <details>
   <summary>
       <span class="summary-links">
@@ -98,8 +90,6 @@ sitemap:
 #### Enhancing the Effectiveness of Early Warning System in Education
 ##### with [Francesco Agostinelli](https://www.francesco-agostinelli.com), [Ciro Avitabile](https://sites.google.com/site/avitabileciro) and [Matteo Bobba](https://matteobobba.github.io)
 
-<div style="height: 3px;"></div>
-
 <details>
   <summary>
       <span class="summary-links">
@@ -115,8 +105,6 @@ sitemap:
 
 #### Equilibrium Effects of Information Interventions in Online Labor Markets
 ##### with [Ana Gazmuri](https://sites.google.com/site/amgazmuri), [Estrella Gomez-Herrera](https://sites.google.com/view/estrella-gomez-herrera) and [Frank Müller-Langer](https://www.unibw.de/bw/professuren/frank-mueller-langer/frank-mueller-langer)
-
-<div style="height: 3px;"></div>
 
 <details>
   <summary>

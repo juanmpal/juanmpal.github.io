@@ -139,7 +139,7 @@ summary {
   font-size: 0.9em !important;
   color: var(--content-primary);
   line-height: 1; /* Normal line height for the summary text */
-  margin-top: 0;
+  margin-top: 0.75em;
   margin-bottom: 0em;
   position: relative;
   padding-left: 1.5em; /* Space for the chevron icon */
@@ -189,6 +189,14 @@ details[open] > summary::before {
 .summary-links a:hover {
   text-decoration: underline; /* Optional: underline on hover */
   font-weight: bold;
+}
+
+.summary-links a.last-update,
+.summary-links a.last-update:hover {
+  cursor: default;
+  text-decoration: none;
+  font-weight: normal;
+  color: var(--content-primary);
 }
 
 /* Style for the abstract box */
