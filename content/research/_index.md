@@ -38,7 +38,7 @@ sitemap:
   <summary>
       <span class="summary-links">
         <a>Abstract</a>
-        <a class="last-update">Last update: January 2026</a>
+        <a class="last-update">Last update: March 2026</a>
       </span>
   </summary>
   <p>
