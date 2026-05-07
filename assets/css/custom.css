@@ -20,9 +20,9 @@ other changes in the main body of the file
   color: var(--code-alt);
 }
 
-b, strong {
+/* b, strong {
   color: var(--code-border);
-}
+} */
 
 
 .responsive-table {
@@ -136,7 +136,7 @@ tbody tr {
 /* Style for the summary element */
 summary {
   font-weight: bold;
-  font-size: 0.9em !important;
+  font-size: var(--h5-font-size) !important;
   color: var(--content-primary);
   line-height: 1; /* Normal line height for the summary text */
   margin-top: 0.75em;
@@ -203,14 +203,10 @@ details[open] > summary::before {
 details summary + p {
   display: block;
   background: var(--background);
-  /* border: 1px solid var(--code-border);
-  border-radius: 8px; */
-  /* padding: 2px 8px; */
-  /* color: var(--code-border); */
-  font-size: 0.95em !important;
+  color: var(--content-secondary);
+  font-size: var(--h4-font-size) !important;
   line-height: 1.6 !important;
   text-align: justify !important;
-  /* max-width: 600px; */
 }
 
 /* Increase space when details is open */

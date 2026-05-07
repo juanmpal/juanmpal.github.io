@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var addr = codes.map(function(n) { return String.fromCharCode(n); }).join('');
     var el = document.getElementById(id);
     if (el) {
-      el.innerHTML = '<a href="mailto:' + addr + '"><strong>' + addr + '</strong></a>';
+      el.innerHTML = '<a href="mailto:' + addr + '">' + addr + '</a>';
     }
   }
   decodeEmail([106,117,97,110,46,112,97,108,64,116,115,101,45,102,114,46,101,117], 'e1');

@@ -24,9 +24,9 @@ hideHeader = false
 homeIntroTitle = ''
 homeIntroContent = """
 
-I am a PhD candidate at the [**Toulouse School of Economics**](https://www.tse-fr.eu/). 
+I am a PhD candidate at the [Toulouse School of Economics](https://www.tse-fr.eu/). 
 
-I will join [**PUC-Chile**](https://gobierno.uc.cl/escuela) as an Assistant Professor in the School of Government (Fall 2026).
+I will join [PUC-Chile](https://gobierno.uc.cl/escuela) as an Assistant Professor in the School of Government (Fall 2026).
 
 **Research fields:** Labor Economics, Industrial Organization, Development Economics.
 
@@ -34,7 +34,7 @@ I combine design-based methods with structural models to explore the interplay b
 
 Don't hesitate to reach out at <span id="e1"></span> / <span id="e2"></span>
 
-[**CV (PDF)**](/files/pal-cv.pdf)
+[CV (PDF)](/files/pal-cv.pdf)
 
 
 """
