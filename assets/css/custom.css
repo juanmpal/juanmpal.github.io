@@ -20,11 +20,6 @@ other changes in the main body of the file
   color: var(--code-alt);
 }
 
-/* b, strong {
-  color: var(--code-border);
-} */
-
-
 .responsive-table {
   width: 100%;
   max-width: 100%;
@@ -33,14 +28,22 @@ other changes in the main body of the file
   border-collapse: collapse;
   font-size: var(--h4-font-size);
 }
+
+.responsive-table th,
+.responsive-table td {
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+}
+
 .responsive-table col {
     width: auto !important;
 }
+
 .responsive-table tbody th[scope="rowgroup"] {
   padding-top: 24px;
+  padding-bottom: 8px;
   font-size: var(--h3-font-size);
   font-weight: bold;
-  color: var(--content-primary);
   text-align: left;
   background: none;
 }
@@ -213,4 +216,3 @@ details summary + p {
 details[open] > summary + p {
   margin-top: 0.75em;
 }
-
