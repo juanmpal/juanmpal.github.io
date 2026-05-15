@@ -49,7 +49,7 @@ sitemap:
 
 
 #### [The Educational PPP: Parents, Peers, Prices](https://juanpal.com/files/pal-varvasino-ppp.pdf)
-##### with [Joaquin Varvasino](https://www.upf.edu/es/web/econ/phd-r-z/-/asset_publisher/g9oPyFBB9Ssf/content/varvasino-joaquin/maximized)
+##### with [Joaquin Varvasino](https://joaquinvarvasino.github.io/)
 
 <details>
   <summary>
