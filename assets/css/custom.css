@@ -185,7 +185,7 @@ details[open] > summary::before {
 /* Style for the links */
 .summary-links a {
   color: var(--content-primary);
-  text-decoration: none; /* Remove underline */
+  text-decoration: none;  /* Remove underline */
   transition: color 0.2s;
 }
 
