@@ -31,7 +31,7 @@ sitemap:
 </details>
 
 
-#### [Effort Choices and Funding Instruments in Higher Education](https://juanpal.com/files/pal-foucault-effort.pdf)
+#### [Funding Instruments and Effort Choices in Higher Education](https://juanpal.com/files/pal-foucault-effort.pdf)
 ##### with [Guillem Foucault](https://gfill.github.io/)
 
 <details>
