@@ -171,6 +171,23 @@ details[open] > summary::before {
   transform: translateY(-50%) rotate(180deg);
 }
 
+/* Style for the abstract box */
+details summary + p {
+  display: block;
+  background: var(--background);
+  color: var(--content-secondary);
+  font-size: var(--h4-font-size) !important;
+  line-height: 1.6 !important;
+  text-align: justify !important;
+}
+
+/* Increase space when details is open */
+details[open] > summary + p {
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+}
+
+
 /* Style for the links container */
 .summary-links {
   display: flex;
@@ -203,17 +220,4 @@ details[open] > summary::before {
   color: var(--content-secondary);
 }
 
-/* Style for the abstract box */
-details summary + p {
-  display: block;
-  background: var(--background);
-  color: var(--content-secondary);
-  font-size: var(--h4-font-size) !important;
-  line-height: 1.6 !important;
-  text-align: justify !important;
-}
 
-/* Increase space when details is open */
-details[open] > summary + p {
-  margin-top: 0.75em;
-}
