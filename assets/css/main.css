@@ -69,7 +69,7 @@ h5 {
   font-weight: normal;
 }
 h5 a {
-  color: var(--content-primary);
+  color: var(--content-secondary);
 }
 
 h6 {

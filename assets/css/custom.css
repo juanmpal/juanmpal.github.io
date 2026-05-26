@@ -175,7 +175,7 @@ details[open] > summary::before {
 details summary + p {
   display: block;
   background: var(--background);
-  color: var(--content-secondary);
+  color: var(--content-primary);
   font-size: var(--h4-font-size) !important;
   line-height: 1.6 !important;
   text-align: justify !important;
@@ -197,12 +197,12 @@ details[open] > summary + p {
   line-height: 1; /* Match summary line height */
   /* margin-left: 0.5em; Slight offset to balance spacing */
   font-weight: normal;
-  color: var(--content-secondary);
+  color: var(--content-primary);
 }
 
 /* Style for the links */
 .summary-links a {
-  color: var(--content-secondary);
+  color: var(--content-primary);
   text-decoration: none;  /* Remove underline */
   transition: color 0.2s;
 }
@@ -217,7 +217,7 @@ details[open] > summary + p {
   cursor: default;
   text-decoration: none;
   font-weight: normal;
-  color: var(--content-secondary);
+  color: var(--content-primary);
 }
 
 
