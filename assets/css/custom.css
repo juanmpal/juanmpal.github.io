@@ -140,7 +140,7 @@ tbody tr {
 summary {
   font-size: var(--h5-font-size) !important;
   line-height: 1; /* Normal line height for the summary text */
-  margin-top: 0.75em;
+  margin-top: 0.5em;
   margin-bottom: 0em;
   position: relative;
   padding-left: 1.5em; /* Space for the chevron icon */
