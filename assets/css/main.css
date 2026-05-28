@@ -67,10 +67,10 @@ h5 {
   margin-bottom: var(--h5-margin-bottom);
   font-size: var(--h5-font-size);
   font-weight: normal;
-  color: var(--content-secondary);
+  color: var(--content-primary);
 }
 h5 a {
-  color: var(--content-secondary);
+  color: var(--content-primary);
 }
 
 h6 {
