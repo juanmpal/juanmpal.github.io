@@ -16,14 +16,14 @@ sitemap:
 
 
 #### [Education Policy and the Quality of Public Servants](https://juanpal.com/files/pal-bvp.pdf)
-##### _UniCredit Foundation Best Paper in Education Economics Award_
+##### UniCredit Foundation Best Paper in Education Economics Award
+###### _Updated: March 2026_
 
 <details>
   <summary>
     <span class="summary-links">
       <a>Abstract</a>
       <a href="http://dx.doi.org/10.2139/ssrn.5373707" target="_blank">SSRN</a>
-      <a class="last-update">Last update: March 2026</a>
     </span>
   </summary>
   <p>
@@ -34,12 +34,12 @@ sitemap:
 
 #### [Funding Instruments and Effort Choices in Higher Education](https://juanpal.com/files/pal-foucault-effort.pdf)
 ##### with [Guillem Foucault](https://gfill.github.io/)
+###### _Updated: May 2026_
 
 <details>
   <summary>
       <span class="summary-links">
         <a>Abstract</a>
-        <a class="last-update">Last update: May 2026</a>
       </span>
   </summary>
   <p>
@@ -51,12 +51,12 @@ sitemap:
 
 #### [The Educational PPP: Parents, Peers, Prices](https://juanpal.com/files/pal-varvasino-ppp.pdf)
 ##### with [Joaquin Varvasino](https://joaquinvarvasino.github.io/)
+###### _Updated: July 2026_
 
 <details>
   <summary>
       <span class="summary-links">
         <a>Abstract</a>
-        <a class="last-update">Last update: July 2025</a>
       </span>
   </summary>
   <p>
