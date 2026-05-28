@@ -72,6 +72,9 @@ h5 {
 h5 a {
   color: var(--content-secondary);
 }
+h5 a:hover {
+  font-weight: bold;
+}
 
 h6 {
   margin-top: var(--h6-margin-top);

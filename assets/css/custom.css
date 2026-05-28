@@ -212,7 +212,7 @@ details[open] > summary + p {
 
 .summary-links a:hover {
   text-decoration: underline; /* Optional: underline on hover */
-  font-weight: bold;
+  color: var(--code-border);
 }
 
 .summary-links a.last-update,
