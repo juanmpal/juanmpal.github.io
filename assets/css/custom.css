@@ -149,6 +149,9 @@ summary {
   cursor: pointer;
   list-style: none; /* Remove default arrow in some browsers */
   display: flex; /* Use flexbox to align Abstract and links inline */
+  width: fit-content; /* Keep the clickable summary area on the visible controls */
+  max-width: 100%;
+  flex-wrap: wrap;
   align-items: baseline; /* Align items to the text baseline for precise alignment */
   gap: 1em; /* Space between Abstract and links */
 }
@@ -219,5 +222,4 @@ details[open] > summary + p {
   font-weight: normal;
   color: var(--content-primary);
 }
-
 
