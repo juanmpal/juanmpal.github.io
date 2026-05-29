@@ -1,5 +1,5 @@
 :root {
-    --content-primary:  rgb(36, 36, 36);
+    --content-primary:  rgb(35, 35, 35);
     --content-secondary:rgb(100, 100, 100);
     --background:       rgb(253, 253, 253);
     --code-background:  rgb(249, 249, 249);
@@ -15,8 +15,8 @@
 }
 
 .dark {
-    --content-primary:  rgb(218, 218, 218);
-    --content-secondary:rgb(200, 200, 200);
+    --content-primary:  rgb(230, 230, 230);
+    --content-secondary:rgb(230, 230, 230);
     --background:       rgb(60, 60, 60);
     --code-background:  rgb(30, 30, 30);
     --code-border:      #4db3d8; /* blue */
