@@ -51,7 +51,7 @@ sitemap:
 
 #### [The Educational PPP: Parents, Peers, Prices](https://juanpal.com/files/pal-varvasino-ppp.pdf)
 ##### with [Joaquin Varvasino](https://joaquinvarvasino.github.io/)
-###### _Updated: July 2026_
+###### _Updated: July 2025_
 
 <details>
   <summary>
