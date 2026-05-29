@@ -157,12 +157,13 @@ summary {
 
 /* Style for the abstract box */
 details summary + p {
+  color: var(--content-secondary);
   display: block;
-  box-sizing: border-box;
+  /* box-sizing: border-box;
   width: 100%;
   padding: 1rem 1.15rem;
   border: 1px solid rgba(100, 100, 100, 0.24);
-  border-radius: 8px;
+  border-radius: 8px; */
   font-size: var(--h4-font-size) !important;
   line-height: 1.6 !important;
   text-align: justify !important;
@@ -202,7 +203,8 @@ details[open] > summary::before {
 
 /* Style for the links */
 .summary-links a {
-  color: var(--content-primary);
+  color: var(--content-secondary);
+  font-weight: bold;
   text-decoration: none;
   transition: color 0.2s;
 }
