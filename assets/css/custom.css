@@ -204,13 +204,14 @@ details[open] > summary::before {
 /* Style for the links */
 .summary-links a {
   color: var(--content-secondary);
-  font-weight: bold;
+  /* font-weight: bold; */
+  /* font-weight: normal; */
   text-decoration: none;
   transition: color 0.2s;
 }
 
 .summary-links a:hover {
-  color: var(--code-border);
+  /* color: var(--code-border); */
   text-decoration: underline;
 }
 
