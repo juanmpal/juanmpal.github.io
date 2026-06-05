@@ -169,10 +169,30 @@ details summary + p {
   text-align: justify !important;
 }
 
-/* Increase space when details is open */
+
+/* Increase space when details is open, and reveal animation */
+
+@keyframes abstract-reveal {
+  from {
+    opacity: 0;
+    transform: translateY(-0.25rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 details[open] > summary + p {
   margin-top: 1em;
   margin-bottom: 1em;
+  animation: abstract-reveal 180ms ease-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  details[open] > summary + p {
+    animation: none;
+  }
 }
 
 
