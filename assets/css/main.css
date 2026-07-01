@@ -79,7 +79,6 @@ h5 a {
   text-decoration: none;
   font-weight: normal;
 }
-
 h5 a:hover {
   text-decoration: underline;
 }
@@ -89,6 +88,14 @@ h6 {
   margin-bottom: var(--h6-margin-bottom);
   font-size: var(--h6-font-size);
   font-weight: normal;
+}
+h6 a {
+  color: var(--content-secondary);
+  text-decoration: none;
+  font-weight: normal;
+}
+h6 a:hover {
+  text-decoration: underline;
 }
 
 .heading {
