@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
   }
   decodeEmail([106,117,97,110,46,112,97,108,64,116,115,101,45,102,114,46,101,117], 'e1'); // TSE
   decodeEmail([106,117,97,110,109,97,114,116,105,110,112,97,108,64,103,109,97,105,108,46,99,111,109], 'e2'); // Gmail
-  decodeEmail([106,117,97,110,46,112,97,108,49,64,117,99,46,99,108], 'e3'); // UC
+  decodeEmail([106,117,97,110,46,112,97,108,64,117,99,46,99,108], 'e3'); // UC
 
   document.querySelectorAll('a[href]').forEach(function(link) {
     // Skip links inside the header
