@@ -135,6 +135,58 @@ tbody tr {
 
 
 
+.home-intro-text .social-icons {
+  margin-bottom: 0;
+}
+
+.home-news {
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+}
+
+.home-news,
+.home-news h2,
+.home-news table,
+.home-news th,
+.home-news td {
+  color: var(--code-border);
+}
+
+.home-news h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.25rem;
+}
+
+.home-news ul {
+  margin: 0;
+  padding-left: 0.0rem;
+}
+
+.home-news table {
+  width: 100%;
+  margin: 0.5rem 0 0;
+  border: none;
+}
+
+.home-news thead {
+  display: none;
+}
+
+.home-news th,
+.home-news td {
+  padding: 0.25rem 0;
+  vertical-align: top;
+}
+
+.home-news th:first-child,
+.home-news td:first-child {
+  width: 0rem;
+  padding-right: 1rem;
+  white-space: nowrap;
+}
+
+
+
 
 /* Style for the summary element */
 summary {

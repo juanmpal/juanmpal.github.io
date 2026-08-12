@@ -40,6 +40,19 @@ Don't hesitate to reach out at <span id="e3"></span>
 
 """
 
+
+homeNews = """
+
+| Date | News |
+| --- | --- |
+| **August 2026** | I've been awarded the Third Prize in the IDB Young Economist Award. |
+| **May 2026** | I've been awarded the UniCredit Foundation Best Education Paper Award. |
+
+"""
+
+
+
+
 # Collection to display on home
 # homeCollectionTitle = 'Posts'
 # homeCollection = 'posts'

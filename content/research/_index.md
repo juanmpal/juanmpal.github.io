@@ -16,7 +16,8 @@ sitemap:
 
 
 #### [Education Policy and the Quality of Public Servants](https://juanpal.com/files/pal-bvp.pdf)
-##### UniCredit Foundation Best Paper in Education Economics Award
+##### - UniCredit Foundation Best Paper in Education Economics Award
+##### - Third Prize in the 2026 IDB Young Economist Award
 ###### _Updated: March 2026_
 
 <details>

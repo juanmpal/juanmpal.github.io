@@ -29,6 +29,14 @@
             {{- end }}
         </div>
         {{ end }}
+
+        {{ with .Site.Params.homeNews }}
+        <div class="home-news">
+            <h2>News</h2>
+            {{ . | markdownify }}
+        </div>
+        {{ end }}
+
     </div>
 </div>
 {{ end }}
