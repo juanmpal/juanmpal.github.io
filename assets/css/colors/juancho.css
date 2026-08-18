@@ -1,6 +1,6 @@
 :root {
     --content-primary:  rgb( 35 ,  35 ,  35);
-    --content-secondary:rgb(100 , 100 , 100);
+    --content-secondary:rgb(150 , 150 , 150);
     --background:       rgb(253 , 253 , 253);
     --code-background:  rgb(249 , 249 , 249);
     --code-border:      rgb(  1 , 118 , 222); /* UC blue */

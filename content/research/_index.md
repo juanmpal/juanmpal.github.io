@@ -23,7 +23,7 @@ sitemap:
 <details>
   <summary>
     <span class="summary-links">
-      <a>Abstract</a>
+      <a class="abstract-toggle">Abstract</a>
       <a href="http://dx.doi.org/10.2139/ssrn.5373707" target="_blank">SSRN</a>
     </span>
   </summary>
@@ -40,7 +40,7 @@ sitemap:
 <details>
   <summary>
       <span class="summary-links">
-        <a>Abstract</a>
+        <a class="abstract-toggle">Abstract</a>
       </span>
   </summary>
   <p>
@@ -57,7 +57,7 @@ sitemap:
 <details>
   <summary>
       <span class="summary-links">
-        <a>Abstract</a>
+        <a class="abstract-toggle">Abstract</a>
       </span>
   </summary>
   <p>
@@ -79,7 +79,7 @@ sitemap:
 <details>
   <summary>
       <span class="summary-links">
-        <a>Abstract</a>
+        <a class="abstract-toggle">Abstract</a>
       </span>
   </summary>
   <p>
@@ -95,7 +95,7 @@ sitemap:
 <details>
   <summary>
       <span class="summary-links">
-        <a>Abstract</a>
+        <a class="abstract-toggle">Abstract</a>
       </span>
   </summary>
   <p>
@@ -111,7 +111,7 @@ sitemap:
 <details>
   <summary>
       <span class="summary-links">
-        <a>Abstract</a>
+        <a class="abstract-toggle">Abstract</a>
       </span>
   </summary>
   <p>

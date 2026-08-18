@@ -195,7 +195,7 @@ summary {
   margin-top: 0.5em;
   margin-bottom: 0em;
   position: relative;
-  padding-left: 1.5em; /* Space for the chevron icon */
+  padding-left: 0;
   cursor: pointer;
   list-style: none; /* Remove default arrow in some browsers */
   display: flex; /* Use flexbox to align Abstract and links inline */
@@ -206,10 +206,27 @@ summary {
   gap: 1em; /* Space between Abstract and links */
 }
 
+.abstract-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.abstract-toggle::before {
+  content: "";
+  display: block;
+  flex: 0 0 0.75em;
+  width: 0.75em;
+  height: 0.75em;
+  background: no-repeat center / contain
+    url('data:image/svg+xml;utf8,<svg fill="none" stroke="gray" stroke-width="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><polyline points="4,6 8,10 12,6"/></svg>');
+  transform: translateY(0.02em);
+  transition: transform 0.2s;
+}
 
 /* Style for the abstract box */
 details summary + p {
-  color: var(--content-secondary);
+  color: var(--content-primary);
   display: block;
   /* box-sizing: border-box;
   width: 100%;
@@ -219,6 +236,10 @@ details summary + p {
   font-size: var(--h4-font-size) !important;
   line-height: 1.6 !important;
   text-align: justify !important;
+}
+
+details[open] .abstract-toggle::before {
+  transform: translateY(0.02em) rotate(180deg);
 }
 
 
@@ -248,46 +269,38 @@ details[open] > summary + p {
 }
 
 
-/* Chevron icon before summary text (down when closed, up when open) */
-summary::before {
-  content: '';
-  position: absolute;
-  left: 0.4em;
-  top: 50%;
-  transform: translateY(-50%) rotate(0deg);
-  width: 1em;
-  height: 1em;
-  background: no-repeat center/contain url('data:image/svg+xml;utf8,<svg fill="none" stroke="gray" stroke-width="2" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><polyline points="4,6 8,10 12,6"/></svg>');
-  transition: transform 0.2s;
-}
-
-/* Rotate chevron up when open */
-details[open] > summary::before {
-  transform: translateY(-50%) rotate(180deg);
-}
-
-
 /* Style for the links container */
 .summary-links {
+  align-items: center;
   display: flex;
-  gap: 1em; /* Space between links */
+  flex-wrap: wrap;
+  gap: 0.45rem;
 }
 
-/* Style for the links */
 .summary-links a {
-  color: var(--content-primary);
+  /* display: inline-flex; */
+  padding: 0.2rem 0.4rem;
+  /* border: 1px solid color-mix(
+    in srgb,
+    var(--content-primary),
+    transparent
+  );
+  border-radius: 5px; */
+  color: var(--content-secondary);
+  font-size: var(--h5-font-size);
+  line-height: 1.3;
   text-decoration: none;
-  transition: color 0.2s;
 }
 
 .summary-links a:hover {
-  /* color: var(--code-border); */
+  border-color: var(--content-secondary);
   text-decoration: underline;
+  transform: translateY(-1px);
 }
 
 .summary-links a.last-update,
 .summary-links a.last-update:hover {
-  text-decoration: none;
+  text-decoration: underline;
   cursor: default;
 }
 
