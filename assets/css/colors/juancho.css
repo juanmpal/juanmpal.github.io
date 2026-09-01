@@ -3,7 +3,7 @@
     --content-secondary:rgb(150 , 150 , 150);
     --background:       rgb(253 , 253 , 253);
     --code-background:  rgb(249 , 249 , 249);
-    --code-border:      rgb(  1 , 118 , 222); /* UC blue */
+    --code-border:      #1d4fa3; /* brighter vivid navy */
     --code-alt:         rgb(200 ,  50 ,  50); /* red */
     /* --abstract-color:  mix(#000, $gray, 60%); */
     /* --background:      #F4F3EE; Pampas: Light, neutral off-white */
@@ -19,7 +19,7 @@
     --content-secondary:rgb(230 , 230 , 230);
     --background:       rgb( 60 ,  60 ,  60);
     --code-background:  rgb( 30 ,  30 ,  30);
-    --code-border:      rgb( 77 , 179 , 216); /* blue */
+    --code-border:      #68a7cf; /* muted blue */
     --code-alt:         rgb(225 , 125 , 125); /* red */
     /* --abstract-color:  mix(#fff, $gray, 50%); */
     /* --code-border:     #78C3A1; green */

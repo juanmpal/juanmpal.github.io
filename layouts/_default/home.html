@@ -2,7 +2,7 @@
 
 {{ .Content }}
 
-{{/* Intro summary section with image and social icons */}}
+{{/* Intro summary section */}}
 {{ if or .Site.Params.homeIntroTitle .Site.Params.homeIntroContent }}
 <div class="home-intro-flex">
     <div class="home-intro-img">
@@ -15,19 +15,6 @@
 
         {{ with .Site.Params.homeIntroContent }}
         <div>{{ . | markdownify }}</div>
-        {{ end }}
-
-        {{/* Social Icons INSIDE the intro text */}}
-        {{ with site.Params.social }}
-        <div class="social-icons">
-            {{- range . }}
-            <a href="{{ trim .url " " | safeURL }}" target="_blank"
-                rel="noopener noreferrer me"
-                title="{{ (.title | default .name) | title }}">
-                {{ partial "svg.html" . }}
-            </a>
-            {{- end }}
-        </div>
         {{ end }}
 
         {{ with .Site.Params.homeNews }}

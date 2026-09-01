@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<div class="list-container">
+<div class="list-container{{ if eq .Section "research" }} research-page{{ end }}">
 
     {{ partial "breadcrumbs.html" . }}
 
