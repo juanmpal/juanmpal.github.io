@@ -741,12 +741,12 @@ details summary + p {
 .research-page .summary-links a {
   background: color-mix(in srgb, var(--code-border) 5%, var(--background));
   border: 1px solid color-mix(in srgb, var(--code-border) 35%, transparent);
-  border-radius: 999px;
+  border-radius: 0;
   color: var(--code-border);
   font-size: 0.82rem !important;
   font-weight: 700;
   line-height: 1;
-  padding: 0.38rem 0.7rem 0.34rem;
+  padding: 0.28rem 0.5rem 0.25rem;
   text-decoration: none;
   transition: background-color 150ms ease, border-color 150ms ease, color 150ms ease;
 }
@@ -769,7 +769,8 @@ details summary + p {
 .research-page details summary + p {
   background: color-mix(in srgb, var(--content-primary) 2.5%, var(--background));
   border: 1px solid color-mix(in srgb, var(--content-secondary) 18%, transparent);
-  border-radius: 0.4rem;
+  border-left: 3px solid var(--code-border);
+  border-radius: 0;
   color: var(--content-primary);
   font-size: 0.98rem !important;
   line-height: 1.58 !important;
