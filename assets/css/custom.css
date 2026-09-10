@@ -421,7 +421,7 @@ body.home .content {
 .header-nav-row {
   border-bottom: 3px solid color-mix(in srgb, var(--content-primary) 75%, transparent);
   margin-top: 0.7rem;
-  padding-bottom: 0.7rem;
+  padding-bottom: 0.9rem;
 }
 
 .header-menu {
@@ -624,7 +624,7 @@ details summary + p {
     justify-content: center;
     justify-self: center;
     margin-top: 0.8rem;
-    padding-bottom: 0.55rem;
+    padding-bottom: 0.9rem;
     width: 100%;
   }
 
