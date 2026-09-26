@@ -533,7 +533,7 @@ a {
 }
 
 .home-news {
-  border-top: 1px dashed color-mix(in srgb, var(--content-secondary) 45%, transparent);
+  border-top: 1px solid color-mix(in srgb, var(--content-secondary) 45%, transparent);
   color: var(--content-secondary);
   font-size: 0.88rem;
   margin-top: 1.75rem;
@@ -560,7 +560,7 @@ a {
 }
 
 .list-container h3 {
-  border-bottom: 2px dashed color-mix(in srgb, var(--content-secondary) 30%, transparent);
+  border-bottom: 2px solid color-mix(in srgb, var(--content-secondary) 30%, transparent);
   font-size: 1.22rem;
   margin-top: 3.25rem;
   padding-bottom: 0.45rem;
@@ -585,7 +585,7 @@ details summary + p {
 }
 
 .responsive-table tbody th[scope="rowgroup"] {
-  border-bottom: 1px dashed color-mix(in srgb, var(--content-secondary) 35%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--content-secondary) 35%, transparent);
   font-size: 1.08rem;
   padding-top: 2rem;
 }
@@ -682,12 +682,17 @@ details summary + p {
 }
 
 .research-page h3 {
+  border-bottom-color: #000;
   color: var(--content-primary);
   font-size: clamp(1.22rem, 1.16rem + 0.26vw, 1.36rem);
   font-weight: 700;
   letter-spacing: 0.015em;
   line-height: 1.2;
   margin: 3.25rem 0 1.25rem;
+}
+
+.dark .research-page h3 {
+  border-bottom-color: #fff;
 }
 
 .research-page h4 {
@@ -726,7 +731,7 @@ details summary + p {
 }
 
 .research-page details {
-  border-bottom: 1px dashed color-mix(in srgb, var(--content-secondary) 30%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--content-secondary) 30%, transparent);
   padding-bottom: 1.5rem;
 }
 
