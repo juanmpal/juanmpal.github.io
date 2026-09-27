@@ -1,0 +1,22 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ .Description }}">
+<meta name="theme-color" content="#f6f4ee">
+{{ if .IsHome }}
+<title>Home — {{ site.Title }}</title>
+{{ else }}
+<title>{{ .Title }} — {{ site.Title }}</title>
+{{ end }}
+{{ $cssVersion := crypto.SHA256 (os.ReadFile "static/assets/style.css") }}
+<link rel="stylesheet" href="{{ "/assets/style.css" | relURL }}?v={{ $cssVersion }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} — {{ site.Title }}{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+{{ with site.Params.analyticsID }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ . }}');</script>
+{{ end }}

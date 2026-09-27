@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ $papers := where .RegularPages "Params.research_type" "working-paper" }}
+{{ $projects := where .RegularPages "Params.research_type" "work-in-progress" }}
+{{ $older := where .RegularPages "Params.research_type" "older-work" }}
+<div class="shell" id="top">
+  <section class="section" id="research" aria-labelledby="research-title">
+    <div class="section-heading"><div class="section-kicker">Research</div><h2 id="research-title">Research</h2><p class="section-desc">{{ .Params.subtitle }}</p></div>
+    <h3 class="research-subtitle">Working papers</h3>
+    <div class="papers">
+      {{ range $papers.ByWeight }}
+      <article class="paper"><div>
+        <h3><a href="{{ .Params.paper_url }}" target="_blank" rel="noopener noreferrer">{{ .Title }}</a></h3>
+        <p class="paper-meta">{{ with .Params.coauthors }}With {{ partial "coauthors.html" . }} · {{ end }}Updated {{ .Params.updated }}</p>
+        {{ with .Params.award }}<p class="award">{{ . }}</p>{{ end }}
+        {{ with .Content }}<details class="abstract"><summary>Abstract</summary>{{ . }}</details>{{ end }}
+      </div><div class="paper-side">
+        {{ with .Params.paper_url }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer">Paper ↗</a>{{ end }}
+        {{ with .Params.ssrn_url }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer">SSRN ↗</a>{{ end }}
+      </div></article>
+      {{ end }}
+    </div>
+    <div class="work-in-progress"><div class="subheading"><h3>Work in progress</h3></div><div class="wip-list">
+      {{ range $projects.ByWeight }}
+      <div class="wip"><h4>{{ .Title }}</h4>
+        {{ with .Params.coauthors }}<p class="coauthors">With {{ partial "coauthors.html" . }}</p>{{ end }}
+        {{ with .Content }}<details class="abstract"><summary>Abstract</summary>{{ . }}</details>{{ end }}
+      </div>
+      {{ end }}
+    </div></div>
+    {{ with $older }}<div class="older-work"><h3>Older work</h3>
+      {{ range .ByWeight }}<p><a href="{{ .Params.paper_url }}" target="_blank" rel="noopener noreferrer">{{ .Title }}</a><span>{{ .Params.citation }}</span></p>{{ end }}
+    </div>{{ end }}
+  </section>
+</div>
+{{ end }}

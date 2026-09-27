@@ -1,0 +1,5 @@
+{{- $authors := . -}}
+{{- range $index, $author := $authors -}}
+  {{- if gt $index 0 -}}{{ if eq $index (sub (len $authors) 1) }} and {{ else }}, {{ end }}{{- end -}}
+  <a href="{{ $author.url }}" target="_blank" rel="noopener noreferrer">{{ $author.name }}</a>
+{{- end -}}

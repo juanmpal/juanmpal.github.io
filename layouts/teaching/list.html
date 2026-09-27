@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="shell" id="top">
+  <section class="section" id="teaching" aria-labelledby="teaching-title">
+    <div class="section-heading"><div class="section-kicker">Teaching</div><h2 id="teaching-title">Teaching</h2><p class="section-desc">{{ .Params.subtitle }}</p></div>
+    <div class="teaching-grid"><div></div><div class="teaching-body">
+      {{ range site.Data.teaching.schools }}
+      <div class="school"><div><p class="school-name">{{ .name }}</p><div class="school-location">{{ .location }}</div></div>
+        <div class="courses">
+          {{ range .courses }}
+          <div class="course">
+            {{ if .url }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }} ↗</a>{{ else }}<span>{{ .name }}</span>{{ end }}
+            <span>{{ .level }}</span><span>{{ .years }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div></div>
+  </section>
+</div>
+{{ end }}

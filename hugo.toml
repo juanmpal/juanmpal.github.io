@@ -1,0 +1,31 @@
+baseURL = 'https://juanpal.com/'
+languageCode = 'en-us'
+title = 'Juan Martín Pal'
+publishDir = 'docs'
+disableKinds = ['taxonomy', 'term', 'rss']
+
+[minify]
+minifyOutput = true
+
+[params]
+analyticsID = 'G-85G1Y65DQZ'
+
+[[params.social]]
+name = 'Google Scholar'
+url = 'https://scholar.google.com/citations?user=hJfPLwIAAAAJ'
+
+[[params.social]]
+name = 'SSRN'
+url = 'https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7817462'
+
+[[params.social]]
+name = 'LinkedIn'
+url = 'https://www.linkedin.com/in/jmpal/'
+
+[[params.social]]
+name = 'GitHub'
+url = 'https://github.com/juanmpal'
+
+[[params.social]]
+name = 'Twitter'
+url = 'https://twitter.com/juanmpal'

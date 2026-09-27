@@ -1,0 +1,8 @@
++++
+title = "Equilibrium Effects of Information Interventions in Online Labor Markets"
+research_type = "work-in-progress"
+weight = 15
+coauthors = [{ name = "Ana Gazmuri", url = "https://sites.google.com/site/amgazmuri" }, { name = "Estrella Gomez-Herrera", url = "https://sites.google.com/view/estrella-gomez-herrera" }, { name = "Frank Müller-Langer", url = "https://www.unibw.de/bw/professuren/frank-mueller-langer/frank-mueller-langer" }]
++++
+
+We study the impact of a policy change in an online labor market requiring disclosure of projects’ experience requirements, which prompted roughly half of employers to stop revealing their budgets. Exploiting detailed data from the universe of auctions in PeoplePerHour—one of the largest online labor markets—we document that employers who conceal budgets after the policy systematically pay higher winning fees across all project types. Bid variance increases, indicating greater strategic uncertainty for workers. Worker win probabilities remain largely unaffected by the disclosure change, though we observe stronger price-based selection for low-value projects and more pronounced firm advantage in mid-value segments. To interpret these empirical patterns and evaluate counterfactual information policies, we build a structural beauty-contest auction model. Our framework explicitly captures the strategic interplay between employers and heterogeneous workers under incomplete information, enabling us to simulate the welfare and market impacts of alternative disclosure policies. The results highlight the multifaceted consequences of market design for both sides of online labor platforms, especially when buyers’ strategic concealment of information is endogenous.

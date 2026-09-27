@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="shell" id="top">
+  <section class="hero" aria-labelledby="hero-title">
+    <div>
+      <h1 id="hero-title">{{ .Params.name }}</h1>
+      <p class="hero-role">{{ .Params.role }}</p>
+      <p class="hero-fields"><strong>Research fields:</strong> {{ delimit .Params.research_fields ", " }}.</p>
+      <p class="hero-copy">{{ .Params.summary }}</p>
+      <p class="hero-phd">I recently completed my PhD at the <a href="{{ .Params.phd_url }}" target="_blank" rel="noopener noreferrer">{{ .Params.phd_institution }}</a>.</p>
+      <div class="hero-actions"><a class="button secondary" href="{{ .Params.cv_url }}" target="_blank" rel="noopener noreferrer">Download CV <span aria-hidden="true">↗</span></a></div>
+      <div class="bio-links" aria-label="Profile links">
+        <a href="mailto:{{ .Params.email }}">Email</a>
+        {{ range site.Params.social }}<a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>{{ end }}
+      </div>
+    </div>
+    <div class="hero-photo-wrap"><img class="hero-photo" src="{{ .Params.portrait }}" alt="{{ .Params.portrait_alt }}" width="832" height="1040"><span class="photo-caption">{{ .Params.portrait_caption }}</span></div>
+  </section>
+</div>
+<section class="spotlight" aria-labelledby="news-title">
+  <div class="shell spotlight-inner">
+    <div class="section-kicker">News</div><h2 id="news-title">News</h2>
+    <div class="news-list">
+      {{ range site.Data.news.items }}<div class="news-item"><span class="date">{{ .date }}</span><p>{{ .text }}</p></div>{{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
