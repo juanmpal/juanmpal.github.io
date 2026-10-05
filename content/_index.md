@@ -11,5 +11,4 @@ email = "juan.pal@uc.cl"
 cv_url = "/files/pal-cv.pdf"
 portrait = "/assets/portrait.jpeg"
 portrait_alt = "Portrait of Juan Martín Pal"
-portrait_caption = "Juan Martín Pal · PUC-Chile"
 +++
