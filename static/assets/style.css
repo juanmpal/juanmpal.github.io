@@ -378,13 +378,13 @@ section {
 .spotlight {
   background: var(--paper);
   color: var(--ink);
-  border-top: 1px solid var(--line);
 }
 .spotlight-inner {
   display: grid;
   grid-template-columns: 170px 1fr;
   gap: 40px;
   padding-block: 55px;
+  border-top: 1px solid var(--line);
 }
 .spotlight h2 {
   font-family: var(--serif);
