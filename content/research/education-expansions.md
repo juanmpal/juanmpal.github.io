@@ -2,6 +2,7 @@
 title = "General Equilibrium Effects of Large-Scale Education Expansions"
 research_type = "work-in-progress"
 weight = 13
+award = "RIS Data Grant, Chilean Ministry of Social Development"
 coauthors = [{ name = "Matteo Bobba", url = "https://matteobobba.github.io" }, { name = "Olivier De Groote", url = "https://sites.google.com/view/olivierdegroote" }, { name = "Guillem Foucault", url = "https://gfill.github.io/" }, { name = "Ana Gazmuri", url = "https://sites.google.com/site/amgazmuri" }]
 +++
 

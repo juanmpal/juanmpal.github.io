@@ -661,6 +661,7 @@ section {
   font-size: 12px;
 }
 #research .award {
+  color: var(--accent-dark);
   font-size: 11px;
   margin-top: 2px;
 }
@@ -741,6 +742,9 @@ section {
   color: var(--muted);
   font-size: 12px;
   line-height: 1.5;
+}
+#research .wip .award {
+  margin-top: 6px;
 }
 #research .wip .coauthors a {
   text-decoration: underline;

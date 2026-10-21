@@ -23,6 +23,7 @@
       {{ range $projects.ByWeight }}
       <div class="wip"><h4>{{ .Title }}</h4>
         {{ with .Params.coauthors }}<p class="coauthors">With {{ partial "coauthors.html" . }}</p>{{ end }}
+        {{ with .Params.award }}<p class="award">{{ . }}</p>{{ end }}
         {{ with .Content }}<details class="abstract"><summary>Abstract</summary>{{ . }}</details>{{ end }}
       </div>
       {{ end }}
