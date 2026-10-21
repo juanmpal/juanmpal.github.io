@@ -20,7 +20,7 @@
   <div class="shell spotlight-inner">
     <h2 id="news-title">News</h2>
     <div class="news-list">
-      {{ range site.Data.news.items }}<div class="news-item"><span class="date">{{ .date }}</span><p>{{ .text }}</p></div>{{ end }}
+      {{ range site.Data.news.items }}<div class="news-item"><span class="date">{{ .date }}</span><p>{{ .text | markdownify }}</p></div>{{ end }}
     </div>
   </div>
 </section>
