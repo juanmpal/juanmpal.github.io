@@ -13,7 +13,7 @@ level = "Graduate"
 years = "2027–"
 
 [[schools.courses]]
-name = "Microeconomics"
+name = "Introductory Microeconomics"
 level = "Undergraduate"
 years = "2027–"
 
@@ -35,13 +35,13 @@ url = "/files/pal-syllabus-tse-rct.pdf"
 
 [[schools.courses]]
 name = "Microeconomics 3"
-level = "Undergrad"
+level = "Undergraduate"
 years = "2024–2025"
 url = "/files/pal-syllabus-tse-micro3.pdf"
 
 [[schools.courses]]
 name = "Introductory Econometrics"
-level = "Undergrad"
+level = "Undergraduate"
 years = "2021–2023"
 url = "/files/pal-syllabus-tse-econometrics.pdf"
 
@@ -63,7 +63,7 @@ url = "/files/pal-syllabus-unlp-econometrics.pdf"
 
 [[schools.courses]]
 name = "International Economics"
-level = "Undergrad"
+level = "Undergraduate"
 years = "2019"
 
 [[schools]]
@@ -72,15 +72,15 @@ location = "Buenos Aires, Argentina"
 
 [[schools.courses]]
 name = "Development Economics"
-level = "Undergrad"
+level = "Undergraduate"
 years = "2018–2020"
 
 [[schools.courses]]
 name = "Math for Economists"
-level = "Undergrad"
+level = "Undergraduate"
 years = "2016"
 
 [[schools.courses]]
 name = "Calculus II"
-level = "Undergrad"
+level = "Undergraduate"
 years = "2015"
