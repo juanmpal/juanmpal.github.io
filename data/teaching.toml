@@ -1,4 +1,23 @@
 [[schools]]
+name = "PUC-Chile"
+location = "Santiago, Chile"
+
+[[schools.courses]]
+name = "Policy Evaluation"
+level = "Graduate"
+years = "2027–"
+
+[[schools.courses]]
+name = "Microeconomics"
+level = "Graduate"
+years = "2027–"
+
+[[schools.courses]]
+name = "Microeconomics"
+level = "Undergraduate"
+years = "2027–"
+
+[[schools]]
 name = "Toulouse School of Economics"
 location = "Toulouse, France"
 
