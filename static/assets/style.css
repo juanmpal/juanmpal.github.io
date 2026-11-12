@@ -126,7 +126,7 @@ summary:focus-visible {
 .hero {
   display: grid;
   grid-template-columns: minmax(0, 1.3fr) minmax(330px, 0.7fr);
-  gap: clamp(36px, 5vw, 80px);
+  gap: clamp(48px, 7vw, 110px);
   padding-top: 91px;
   padding-bottom: 85px;
   align-items: center;
