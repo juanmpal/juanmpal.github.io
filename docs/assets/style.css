@@ -150,7 +150,7 @@ summary:focus-visible {
   align-items: start;
 }
 .hero h1 {
-  margin: 0 0 27px;
+  margin: 0 0 14px;
 }
 .hero-role {
   font-family: var(--serif);
@@ -534,7 +534,7 @@ section {
     padding-bottom: 50px;
   }
   .hero h1 {
-    margin: 0 0 22px;
+    margin: 0 0 12px;
   }
   .hero-copy {
     font-size: 15px;
@@ -758,7 +758,7 @@ section {
   max-width: 555px;
   margin: 0 0 22px;
   color: #45514e;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 1.6;
 }
 #research .wip .coauthors {
