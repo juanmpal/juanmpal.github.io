@@ -5,7 +5,9 @@
       <h1 id="hero-title">{{ .Params.name }}</h1>
       <p class="hero-role">{{ .Params.role }}</p>
       <p class="hero-fields"><strong>Research fields:</strong> {{ delimit .Params.research_fields ", " }}.</p>
-      <p class="hero-copy">{{ .Params.summary }}</p>
+      <div class="hero-copy">
+        {{ .RenderString (dict "display" "block") .Params.summary }}
+      </div>
       <p class="hero-phd">I recently completed my PhD at the <a href="{{ .Params.phd_url }}" target="_blank" rel="noopener noreferrer">{{ .Params.phd_institution }}</a>.</p>
       <div class="hero-actions"><a class="button secondary" href="{{ .Params.cv_url }}" target="_blank" rel="noopener noreferrer">Download CV <span aria-hidden="true">↗</span></a></div>
       <div class="bio-links" aria-label="Profile links">
