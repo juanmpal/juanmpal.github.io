@@ -144,12 +144,13 @@ summary:focus-visible {
 
 .hero {
   display: grid;
-  grid-template-columns: minmax(0, 1.22fr) minmax(350px, 0.78fr);
+  grid-template-columns: minmax(350px, 0.78fr) minmax(0, 1.22fr);
   gap: clamp(30px, 4vw, 54px);
   padding-bottom: 70px;
   align-items: start;
 }
 .hero h1 {
+  font-size: 54px;
   margin: 12px 0 14px;
 }
 .hero-role {
@@ -204,6 +205,7 @@ summary:focus-visible {
   line-height: 1.7;
 }
 .hero-photo-wrap {
+  order: -1;
   position: relative;
   align-self: stretch;
   min-height: 490px;
@@ -244,12 +246,12 @@ section {
 .hero h1,
 .section-heading :is(h1, h2) {
   font-family: var(--serif);
-  font-size: 46px;
   letter-spacing: -0.055em;
   font-weight: 400;
   line-height: 1.05;
 }
 .section-heading :is(h1, h2) {
+  font-size: 46px;
   margin: 0 0 12px;
 }
 .section-heading .section-desc {
@@ -502,7 +504,7 @@ section {
 @media (max-width: 1000px) {
   .hero {
     gap: 28px;
-    grid-template-columns: 1.1fr 0.9fr;
+    grid-template-columns: 0.9fr 1.1fr;
   }
   .hero-photo-wrap {
     min-height: 430px;
@@ -534,12 +536,14 @@ section {
     padding-bottom: 50px;
   }
   .hero h1 {
+    font-size: 48px;
     margin: 0 0 12px;
   }
   .hero-copy {
     font-size: 15px;
   }
   .hero-photo-wrap {
+    order: 0;
     min-height: 0;
     height: min(113vw, 560px);
     margin-right: 8px;
@@ -565,7 +569,6 @@ section {
   .section {
     padding-bottom: 58px;
   }
-  .hero h1,
   .section-heading :is(h1, h2) {
     font-size: 40px;
   }
