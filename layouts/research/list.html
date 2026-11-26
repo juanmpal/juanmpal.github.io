@@ -8,15 +8,20 @@
     <h3 class="research-subtitle">Working papers</h3>
     <div class="papers">
       {{ range $papers.ByWeight }}
-      <article class="paper"><div>
+      <article class="paper">
         <h3><a href="{{ .Params.paper_url }}" target="_blank" rel="noopener noreferrer">{{ .Title }}</a></h3>
         <p class="paper-meta">{{ with .Params.coauthors }}With {{ partial "coauthors.html" . }} · {{ end }}Updated {{ .Params.updated }}</p>
         {{ with .Params.award }}<p class="award">{{ . }}</p>{{ end }}
-        {{ with .Content }}<details class="abstract"><summary>Abstract</summary>{{ . }}</details>{{ end }}
-      </div><div class="paper-side">
-        {{ with .Params.paper_url }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer">Paper ↗</a>{{ end }}
-        {{ with .Params.ssrn_url }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer">SSRN ↗</a>{{ end }}
-      </div></article>
+        <div class="paper-actions">
+          {{ with .Content }}<details class="abstract"><summary>Abstract</summary>{{ . }}</details>{{ end }}
+          {{ if or .Params.paper_url .Params.ssrn_url }}
+          <div class="paper-links">
+            {{ with .Params.paper_url }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer">Paper</a>{{ end }}
+            {{ with .Params.ssrn_url }}<a href="{{ . }}" target="_blank" rel="noopener noreferrer">SSRN</a>{{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </article>
       {{ end }}
     </div>
     <div class="work-in-progress"><div class="subheading"><h3>Work in progress</h3></div><div class="wip-list">
