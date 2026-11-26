@@ -313,7 +313,6 @@ section {
 }
 .abstract {
   margin-top: 19px;
-  max-width: 690px;
 }
 .abstract summary,
 .paper-links a {
@@ -687,7 +686,6 @@ section {
 }
 #research .abstract {
   margin-top: 7px;
-  max-width: 820px;
 }
 #research .abstract p {
   font-size: 16px;
@@ -709,7 +707,6 @@ section {
     display: grid;
     grid-area: 1 / 1 / span 2 / -1;
     grid-template: subgrid / subgrid;
-    max-width: none;
   }
   .paper-actions .abstract summary {
     grid-area: 1 / 1;
@@ -717,7 +714,6 @@ section {
   }
   .paper-actions .abstract::details-content {
     grid-area: 2 / 1 / 3 / -1;
-    max-width: 820px;
   }
   .paper-actions .paper-links {
     grid-area: 1 / 2;
@@ -794,7 +790,6 @@ section {
 }
 #research .wip .abstract {
   margin-top: 8px;
-  max-width: 820px;
 }
 #research .wip .abstract p {
   margin: 14px 0 0;
