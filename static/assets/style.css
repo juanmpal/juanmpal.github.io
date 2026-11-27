@@ -760,10 +760,14 @@ section {
 
 .hero-phd a,
 .hero-copy a,
-.hero-fields a {
+.hero-fields a,
+.news-item a {
   color: var(--accent-dark);
   text-decoration: underline;
   text-underline-offset: 3px;
+}
+.news-item a {
+  text-decoration-thickness: 1px;
 }
 .hero-fields {
   max-width: 555px;
